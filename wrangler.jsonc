@@ -25,7 +25,7 @@
 		{
 			"binding": "DB",
 			"database_name": "aitech-db",
-			"database_id": "00000000-0000-0000-0000-000000000000",
+			"database_id": "9659db6b-bfba-4f37-9367-fd182af9830e",
 			"migrations_dir": "db/migrations"
 		}
 	]
