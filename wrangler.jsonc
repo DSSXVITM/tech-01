@@ -7,7 +7,7 @@
 	//   npx wrangler d1 migrations apply aitech-db --remote
 	// then paste the returned database_id. See docs/phase-2.md.
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "ai-tech",
+	"name": "ai-tech-test",
 	"main": ".open-next/worker.js",
 	"compatibility_date": "2026-08-08",
 	"compatibility_flags": ["nodejs_compat"],
