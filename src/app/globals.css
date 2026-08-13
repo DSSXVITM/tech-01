@@ -1,0 +1,259 @@
+@import "tailwindcss";
+
+/* ============================================================
+   TechHow — design tokens
+   Light, clean and modern (Linear/Stripe-inspired). Light is the
+   default theme; a `.dark` class on <html> switches to a dark
+   variant. `.light` is kept for backward-compatible localStorage.
+   ============================================================ */
+
+:root {
+  /* Light theme (default) */
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --surface-2: #f0f2f6;
+  --line: rgba(16, 20, 34, 0.1);
+  --fg: #171a22;
+  --fg-strong: #0b0d13;
+  --muted: #5d6574;
+  --signal: #4f46e5;
+  --signal-soft: rgba(79, 70, 229, 0.1);
+  --signal-ink: #4338ca;
+  --amber: #d97706;
+  --amber-soft: rgba(217, 119, 6, 0.12);
+  --danger: #dc2626;
+  --paper: #ffffff;
+  --mono-dim: rgba(93, 101, 116, 0.85);
+}
+
+html.light {
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --surface-2: #f0f2f6;
+  --line: rgba(16, 20, 34, 0.1);
+  --fg: #171a22;
+  --fg-strong: #0b0d13;
+  --muted: #5d6574;
+  --signal: #4f46e5;
+  --signal-soft: rgba(79, 70, 229, 0.1);
+  --signal-ink: #4338ca;
+  --amber: #d97706;
+  --amber-soft: rgba(217, 119, 6, 0.12);
+  --danger: #dc2626;
+  --paper: #ffffff;
+  --mono-dim: rgba(93, 101, 116, 0.85);
+}
+
+html.dark {
+  --bg: #0b0d14;
+  --surface: #13151f;
+  --surface-2: #1a1d2b;
+  --line: rgba(151, 161, 194, 0.14);
+  --fg: #eef0f7;
+  --fg-strong: #ffffff;
+  --muted: #98a1b6;
+  --signal: #6f79f0;
+  --signal-soft: rgba(111, 121, 240, 0.18);
+  --signal-ink: #aab2ff;
+  --amber: #f5b93d;
+  --amber-soft: rgba(245, 185, 61, 0.16);
+  --danger: #ff6b6b;
+  --paper: #f6f7f9;
+  --mono-dim: rgba(152, 161, 182, 0.85);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-fg: var(--fg);
+  --color-fg-strong: var(--fg-strong);
+  --color-muted: var(--muted);
+  --color-paper: var(--paper);
+  --color-signal: var(--signal);
+  --color-signal-soft: var(--signal-soft);
+  --color-signal-ink: var(--signal-ink);
+  --color-amber: var(--amber);
+  --color-amber-soft: var(--amber-soft);
+  --color-danger: var(--danger);
+
+  --font-display: var(--display);
+  --font-sans: var(--display);
+  --font-mono: var(--mono);
+
+  --shadow-card: 0 1px 2px rgba(16, 20, 34, 0.05), 0 10px 30px -16px rgba(16, 20, 34, 0.16);
+}
+
+html.dark {
+  --shadow-card: 0 1px 0 var(--line) inset, 0 14px 34px -18px rgba(0, 0, 0, 0.55);
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans, "Sora", sans-serif);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--signal);
+  color: #ffffff;
+}
+
+/* ---------- utility: display headline ---------- */
+.font-display {
+  font-family: var(--font-display, "Sora", sans-serif);
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+}
+
+/* ---------- status dot (● LIVE / BREAKING / UPDATED / TRENDING) ---------- */
+.status-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 9999px;
+  display: inline-block;
+  flex: none;
+}
+.status-dot.is-live,
+.status-dot.is-breaking,
+.status-dot.is-updated {
+  background: var(--amber);
+  box-shadow: 0 0 0 4px var(--amber-soft);
+}
+.status-dot.is-live::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 9999px;
+  animation: status-pulse 1.8s ease-out infinite;
+  background: var(--amber);
+}
+.status-dot.is-trending {
+  background: var(--signal);
+  box-shadow: 0 0 0 4px var(--signal-soft);
+}
+
+@keyframes status-pulse {
+  0% { transform: scale(1); opacity: 0.6; }
+  70% { transform: scale(2.6); opacity: 0; }
+  100% { transform: scale(2.6); opacity: 0; }
+}
+
+/* ---------- circuit trace divider ---------- */
+.circuit-divider {
+  position: relative;
+  height: 1px;
+  background: var(--line);
+}
+.circuit-divider::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='1'%3E%3Cpath d='M0 0h20l4 0' stroke='%234f46e5' stroke-opacity='0.5' fill='none'/%3E%3C/svg%3E");
+  background-repeat: repeat-x;
+}
+
+/* ---------- right-angle PCB trace motif (background texture) ---------- */
+.circuit-trace {
+  background-image:
+    linear-gradient(var(--line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line) 1px, transparent 1px),
+    radial-gradient(circle at 1px 1px, var(--signal) 0.7px, transparent 0);
+  background-size: 44px 44px, 44px 44px, 44px 44px;
+  mask-image: radial-gradient(ellipse at center, black 0%, transparent 72%);
+  -webkit-mask-image: radial-gradient(ellipse at center, black 0%, transparent 72%);
+}
+
+/* ---------- prose for article body ---------- */
+.prose-article h2 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+  font-size: 1.65rem;
+  line-height: 1.15;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 0.9rem;
+}
+.prose-article h3 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+  font-size: 1.25rem;
+  line-height: 1.2;
+  font-weight: 600;
+  margin-top: 1.9rem;
+  margin-bottom: 0.7rem;
+  color: var(--signal-ink);
+}
+.prose-article p {
+  font-size: 1.0625rem;
+  line-height: 1.78;
+  color: var(--fg);
+  margin-bottom: 1.15rem;
+}
+.prose-article a {
+  color: var(--signal-ink);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+.prose-article a:hover { color: var(--signal); }
+.prose-article ul,
+.prose-article ol {
+  margin: 0 0 1.25rem 0;
+  padding-left: 1.4rem;
+  display: grid;
+  gap: 0.45rem;
+}
+.prose-article ul { list-style: none; }
+.prose-article ul > li { position: relative; padding-left: 0.75rem; }
+.prose-article ul > li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.72em;
+  width: 0.4rem;
+  height: 0.4rem;
+  background: var(--signal);
+  border-radius: 2px;
+}
+.prose-article ol { list-style: decimal; }
+.prose-article ol > li::marker { color: var(--signal-ink); font-family: var(--font-mono); font-size: 0.85em; }
+.prose-article blockquote {
+  border-left: 2px solid var(--signal);
+  padding: 0.25rem 0 0.25rem 1.1rem;
+  margin: 1.6rem 0;
+  color: var(--muted);
+  font-style: italic;
+}
+.prose-article strong { color: var(--fg-strong); font-weight: 650; }
+
+/* ---------- ticker crawl ---------- */
+@keyframes ticker-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.ticker-track {
+  width: max-content;
+  animation: ticker-scroll 45s linear infinite;
+  will-change: transform;
+}
+.ticker-track:hover { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track { animation: none; }
+}
+
+/* ---------- thin scrollbar ---------- */
+.scroll-slim::-webkit-scrollbar { width: 6px; height: 6px; }
+.scroll-slim::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+.scroll-slim::-webkit-scrollbar-track { background: transparent; }
+
+/* hide autofill flash */
+input:-webkit-autofill,
+textarea:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px var(--surface) inset;
+  -webkit-text-fill-color: var(--fg);
+  transition: background-color 5000s ease-in-out 0s;
+}

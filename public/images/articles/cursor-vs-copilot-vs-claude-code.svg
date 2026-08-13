@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Cursor vs Copilot vs Claude Code: The 2026 Editor Shootout">
+<defs>
+<linearGradient id="bg-a-cursorvscopilotvsclaudecode" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-cursorvscopilotvsclaudecode" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#FF5C7A" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#FF5C7A" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-cursorvscopilotvsclaudecode" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-cursorvscopilotvsclaudecode)"/>
+<rect width="1200" height="630" fill="url(#glow-a-cursorvscopilotvsclaudecode)"/>
+<rect width="1200" height="630" fill="url(#grid-a-cursorvscopilotvsclaudecode)"/>
+<path d="M380 164 L380 253 L448 253 L438 253 L438 401" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="438" cy="401" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M1067 91 L1067 68 L1067 44" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1067" cy="44" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M145 139 L117 139 L117 338 L117 329" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="117" cy="329" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M233 50 L305 50 L305 127 L305 287 L407 287" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="407" cy="287" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M789 351 L759 351 L779 351 L779 454" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="779" cy="454" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M1 96 L1 131 L1 199 L90 199 L90 270" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="90" cy="270" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M867 167 L1059 167 L1192 167 L1192 331 L1192 378" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1192" cy="378" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M556 161 L556 249 L556 413 L556 544" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="556" cy="544" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M1126 199 L1126 338 L1126 545" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1126" cy="545" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M650 623 L672 623 L659 623 L712 623" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="712" cy="623" r="5" fill="#FF5C7A" fillOpacity="0.35"/><path d="M491 576 L556 576 L556 603" fill="none" stroke="#FF5C7A" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="556" cy="603" r="5" fill="#FF5C7A" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#FF5C7A"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#FF5C7A"/>
+<rect x="86" y="60" width="10" height="10" fill="#FF5C7A"/>
+<rect x="104" y="78" width="6" height="6" fill="#FF5C7A" opacity="0.5"/>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Cursor vs Copilot vs Claude Code:</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">The 2026 Editor Shootout</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">EDITORS</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#FF5C7A">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#FF5C7A" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#FF5C7A" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#FF5C7A" opacity="0.35"/>
+</svg>

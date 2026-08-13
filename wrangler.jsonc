@@ -1,0 +1,32 @@
+{
+	// Cloudflare Workers / Pages deployment config for the OpenNext adapter.
+	// Phase 1 deploys as static + worker with zero database dependencies.
+	//
+	// Phase 2 (auth + admin): uncomment the d1_databases block below and run:
+	//   npx wrangler d1 create aitech-db
+	//   npx wrangler d1 migrations apply aitech-db --remote
+	// then paste the returned database_id. See docs/phase-2.md.
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "ai-tech",
+	"main": ".open-next/worker.js",
+	"compatibility_date": "2026-08-08",
+	"compatibility_flags": ["nodejs_compat"],
+	"assets": {
+		"directory": ".open-next/assets",
+		"binding": "ASSETS"
+	},
+	"observability": {
+		"enabled": true
+	},
+	// D1 database (Phase 2). Works locally out of the box with the
+	// placeholder id. Before REMOTE deploy, replace it with the real id:
+	//   npx wrangler d1 create aitech-db   (copy database_id from the output)
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "aitech-db",
+			"database_id": "00000000-0000-0000-0000-000000000000",
+			"migrations_dir": "db/migrations"
+		}
+	]
+}
