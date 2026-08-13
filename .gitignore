@@ -43,7 +43,6 @@ yarn-error.log*
 .open-next/
 .wrangler/
 .dev.vars
-cloudflare-env.d.ts
 
 # local dev database + generated seeds
 .data/
