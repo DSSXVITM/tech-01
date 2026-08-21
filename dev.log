@@ -1,0 +1,40 @@
+
+> ai-tech-media@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://169.254.123.3:3000
+- Environments: .env
+✓ Ready in 1293ms
+✓ Running next.config.ts took 450ms
+
+ GET / 200 in 1028ms (next.js: 344ms, application-code: 684ms)
+ GET / 200 in 327ms (next.js: 3ms, application-code: 324ms)
+ GET / 200 in 324ms (next.js: 9ms, application-code: 315ms)
+[browser] Image with src "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1600&auto=format&fit=crop" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET /meta.json 404 in 1310ms (next.js: 108ms, generate-params: 727ms, application-code: 475ms)
+ GET /api/auth/me 200 in 167ms (next.js: 133ms, application-code: 35ms)
+ GET /api/auth/me 200 in 156ms (next.js: 142ms, application-code: 14ms)
+ GET /meta.json 404 in 642ms (next.js: 8ms, generate-params: 61ms, application-code: 573ms)
+ GET /meta.json 404 in 195ms (next.js: 10ms, generate-params: 0.1ms, application-code: 185ms)
+ GET /ai/how-to-write-better-prompts-for-chatgpt 200 in 907ms (next.js: 610ms, application-code: 297ms)
+ GET / 200 in 309ms (next.js: 5ms, application-code: 304ms)
+ GET /api/auth/me 200 in 21ms (next.js: 12ms, application-code: 9ms)
+ GET /api/auth/me 200 in 10ms (next.js: 3ms, application-code: 6ms)
+ GET /meta.json 404 in 256ms (next.js: 6ms, generate-params: 69ms, application-code: 182ms)
+ GET / 200 in 311ms (next.js: 6ms, application-code: 304ms)
+[browser] Image with src "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1600&auto=format&fit=crop" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET /api/auth/me 200 in 27ms (next.js: 6ms, application-code: 21ms)
+ GET /api/auth/me 200 in 18ms (next.js: 7ms, application-code: 11ms)
+ GET /meta.json 404 in 224ms (next.js: 7ms, generate-params: 66ms, application-code: 151ms)
+ GET / 200 in 318ms (next.js: 30ms, application-code: 288ms)
+ GET / 200 in 487ms (next.js: 20ms, application-code: 466ms)
+ GET /ai/how-to-write-better-prompts-for-chatgpt 200 in 388ms (next.js: 74ms, application-code: 315ms)
+(node:30284) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:30284) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 drain listeners added to [Gzip]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+ GET /macos 200 in 1116ms (next.js: 39ms, generate-params: 51ms, application-code: 1026ms)
+ GET /macos 200 in 561ms (next.js: 14ms, generate-params: 0.1ms, application-code: 547ms)
