@@ -4,8 +4,11 @@ import type { Article, CategorySlug, ContentBlock, Difficulty } from "../../type
 import { coverCredits } from "./credits";
 
 const COVER_DIR = join(process.cwd(), "public", "images", "articles");
+const COVER_BASE_URL = (process.env.NEXT_PUBLIC_COVER_BASE_URL || "").replace(/\/+$/, "");
 function coverSrc(slug: string): string | undefined {
-  return existsSync(join(COVER_DIR, `${slug}.jpg`)) ? `/images/articles/${slug}.jpg` : undefined;
+  if (!existsSync(join(COVER_DIR, `${slug}.jpg`))) return undefined;
+  if (COVER_BASE_URL) return `${COVER_BASE_URL}/images/articles/${slug}.jpg`;
+  return `/images/articles/${slug}.jpg`;
 }
 
 /**
