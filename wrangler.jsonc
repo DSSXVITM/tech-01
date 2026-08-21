@@ -29,7 +29,7 @@
 		{
 			"binding": "DB",
 			"database_name": "aitech-db",
-			"database_id": "9659db6b-bfba-4f37-9367-fd182af9830e",
+			"database_id": "7095fb2e-cb5f-48c7-99f8-73c2730e2167",
 			"migrations_dir": "db/migrations"
 		}
 	]
