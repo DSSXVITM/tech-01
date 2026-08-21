@@ -6,7 +6,6 @@ import {
   getAuthorBySlug,
   getCategoryBySlugSafe,
   getRelatedArticles,
-  getAllArticles,
   getAffiliateCatalog,
 } from "@/content";
 import { getDbArticle } from "@/lib/db/content";
@@ -29,10 +28,6 @@ import { SaveButton } from "@/components/save-button";
 
 interface Props {
   params: Promise<{ category: string; slug: string }>;
-}
-
-export function generateStaticParams() {
-  return getAllArticles().map((a) => ({ category: a.category, slug: a.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
