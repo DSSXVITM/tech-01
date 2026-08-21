@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { CoverImage } from "@/components/cover-image";
 import type { ArticleImage } from "@/content/types";
 
 /**
@@ -99,6 +100,13 @@ export function CoverArt({
   // generated fallback art. These are tiny already-optimized SVGs, so the
   // Next.js image optimizer is skipped via `unoptimized`.
   if (image.src) {
+    // Bundled article covers live in public/images/articles and are served
+    // from GitHub via CDN(s) — use the multi-source fallback component so a
+    // cover still appears even if a specific CDN is blocked in the visitor's
+    // region.
+    if (image.src.includes("/images/articles/")) {
+      return <CoverImage slug={seed} alt={image.alt} className={className} />;
+    }
     // Admin-uploaded covers are stored as base64 data URIs — the Next.js
     // Image optimizer can't serve those, so render a plain <img> instead.
     if (image.src.startsWith("data:")) {
