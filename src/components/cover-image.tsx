@@ -8,8 +8,8 @@ const BRANCH = "main";
 function sourcesFor(slug: string): string[] {
   const path = `/images/articles/${slug}.jpg`;
   return [
-    `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}${path}`,
     `https://raw.githubusercontent.com/${REPO}/${BRANCH}/public${path}`,
+    `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}${path}`,
   ];
 }
 
