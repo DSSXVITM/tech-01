@@ -8,24 +8,55 @@ function encode(text: string) {
 
 /**
  * Share buttons — copy link plus X / LinkedIn / Facebook intents and a
- * native share fallback where the platform supports it (falls back to
- * copying the link where navigator.share isn't available).
+ * native share fallback where the platform supports it.
+ *
+ * `url` is the canonical public URL (passed from the server). The copy
+ * action tries the async Clipboard API first and falls back to a hidden
+ * textarea + execCommand so it still works in non-secure contexts.
  */
 export function ShareButtons({ title, url }: { title: string; url: string }) {
   const [copied, setCopied] = useState(false);
+  const [failed, setFailed] = useState(false);
 
   const copy = async () => {
+    setFailed(false);
+    let ok = false;
     try {
       await navigator.clipboard.writeText(url);
+      ok = true;
+    } catch {
+      /* Clipboard API blocked — try the legacy fallback below. */
+    }
+
+    if (!ok) {
+      try {
+        const ta = document.createElement("textarea");
+        ta.value = url;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "fixed";
+        ta.style.top = "-9999px";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+        ok = document.execCommand("copy");
+        document.body.removeChild(ta);
+      } catch {
+        ok = false;
+      }
+    }
+
+    if (ok) {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
-    } catch {
-      /* clipboard unavailable */
+    } else {
+      setFailed(true);
+      setTimeout(() => setFailed(false), 3000);
     }
   };
 
   const share = async () => {
-    if (!navigator.share) {
+    if (typeof navigator.share !== "function") {
       await copy();
       return;
     }
@@ -39,7 +70,7 @@ export function ShareButtons({ title, url }: { title: string; url: string }) {
   const links = [
     {
       label: "X",
-      href: `https://twitter.com/intent/tweet?url=${encode(url)}&text=${encode(title)}`,
+      href: `https://x.com/intent/tweet?url=${encode(url)}&text=${encode(title)}`,
     },
     {
       label: "LinkedIn",
@@ -52,13 +83,13 @@ export function ShareButtons({ title, url }: { title: string; url: string }) {
   ];
 
   return (
-    <div className="flex items-center gap-2" aria-label="Share this article">
+    <div className="flex flex-wrap items-center gap-2" aria-label="Share this article">
       <button
         type="button"
         onClick={copy}
         className="inline-flex h-9 items-center gap-2 rounded-md border border-line bg-surface px-3 font-mono text-[11px] font-semibold uppercase tracking-[0.08em] text-fg transition-colors hover:border-signal/50"
       >
-        {copied ? "✓ Copied" : "Copy link"}
+        {copied ? "✓ Copied" : failed ? "Copy failed" : "Copy link"}
       </button>
       {links.map((l) => (
         <a

@@ -28,6 +28,20 @@ export async function getGoogleClientId(): Promise<string | null> {
   return null;
 }
 
+export async function getGoogleClientSecret(): Promise<string | null> {
+  if (typeof process !== "undefined" && process.env?.GOOGLE_CLIENT_SECRET) {
+    return process.env.GOOGLE_CLIENT_SECRET;
+  }
+  try {
+    const env = getCloudflareContext().env as unknown as Record<string, unknown>;
+    const v = env.GOOGLE_CLIENT_SECRET;
+    if (typeof v === "string" && v) return v;
+  } catch {
+    /* not on Cloudflare */
+  }
+  return null;
+}
+
 /* --------------------------- JWT helpers --------------------------- */
 
 const GOOGLE_JWKS_URL = "https://www.googleapis.com/oauth2/v3/certs";

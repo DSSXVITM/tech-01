@@ -18,6 +18,10 @@
 	"observability": {
 		"enabled": true
 	},
+	"vars": {
+		"APP_URL": "https://ai-tech.fit",
+		"EMAIL_FROM": "AI Tech <onboarding@resend.dev>"
+	},
 	// D1 database (Phase 2). Works locally out of the box with the
 	// placeholder id. Before REMOTE deploy, replace it with the real id:
 	//   npx wrangler d1 create aitech-db   (copy database_id from the output)

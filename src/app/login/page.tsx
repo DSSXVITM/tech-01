@@ -11,8 +11,14 @@ export const metadata: Metadata = {
   robots: { index: false },
 };
 
-export default async function LoginPage() {
+export default async function LoginPage({
+  searchParams,
+}: {
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+}) {
   const googleClientId = await getGoogleClientId();
+  const sp = await searchParams;
+  const googleError = typeof sp.google === "string" ? sp.google : null;
 
   return (
     <div className="mx-auto flex min-h-[60vh] max-w-md flex-col justify-center px-4 py-16">
@@ -30,6 +36,15 @@ export default async function LoginPage() {
         <div className="mt-6">
           <GoogleLoginButton clientId={googleClientId} />
         </div>
+
+        {googleError && (
+          <p className="mt-4 rounded-md border border-danger/40 bg-danger/10 px-3 py-2 font-mono text-[12px] text-danger">
+            {googleError === "not_configured" && "Google sign-in is not configured."}
+            {googleError === "failed" && "Google verification failed. Please try again."}
+            {googleError === "banned" && "This account has been suspended."}
+            {!["not_configured", "failed", "banned"].includes(googleError) && "Google sign-in failed. Please try again."}
+          </p>
+        )}
 
         <div className="my-5 flex items-center gap-3" aria-hidden="true">
           <span className="h-px flex-1 bg-line" />

@@ -17,7 +17,6 @@ import { StatusTag, getStatusTag } from "@/components/status-tag";
 import { Breadcrumbs } from "@/components/breadcrumbs";
 import { ArticleRenderer } from "@/components/article-renderer";
 import { TutorialHeader } from "@/components/tutorial-header";
-import { SourcesBlock } from "@/components/sources-block";
 import { ShareButtons } from "@/components/share-buttons";
 import { ComparisonTable } from "@/components/comparison-table";
 import { ArticleCard } from "@/components/article-card";
@@ -229,8 +228,6 @@ export default async function ArticlePage({ params }: Props) {
                 </p>
               </>
             )}
-
-            <SourcesBlock sources={article.sources} />
 
             {/* Share */}
             <div className="mt-8 flex flex-wrap items-center justify-between gap-4">

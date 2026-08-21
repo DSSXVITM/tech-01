@@ -74,7 +74,7 @@ export function AccountMenu() {
       {user.role === "admin" && (
         <Link
           href="/admin"
-          className="flex items-center gap-2 rounded-md bg-gradient-to-br from-violet-500 to-fuchsia-500 px-3 py-2 font-display text-sm font-bold uppercase tracking-wide text-white shadow-sm transition-transform hover:scale-[1.03]"
+          className="flex items-center gap-2 rounded-md bg-gradient-to-br from-violet-500 to-fuchsia-500 px-3 py-2 font-display text-sm font-bold uppercase tracking-wide text-white shadow-sm transition-opacity hover:opacity-90"
         >
           <AdminMark className="h-4 w-4" />
           Admin

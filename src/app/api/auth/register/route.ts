@@ -1,11 +1,11 @@
 import { NextResponse } from "next/server";
 import { getDB } from "@/lib/db/client";
 import {
-  SESSION_COOKIE,
-  createSessionToken,
   hashPassword,
-  sessionCookieOptions,
 } from "@/lib/db/auth";
+import { sendVerificationEmail } from "@/lib/email";
+
+const VERIFY_TTL_MS = 24 * 60 * 60 * 1000;
 
 export const dynamic = "force-dynamic";
 
@@ -44,14 +44,21 @@ export async function POST(request: Request) {
 
   const id = crypto.randomUUID();
   const passwordHash = await hashPassword(password);
+
+  const verificationToken = Array.from(crypto.getRandomValues(new Uint8Array(32)))
+    .map((b) => b.toString(16).padStart(2, "0"))
+    .join("");
+  const verificationExpires = Date.now() + VERIFY_TTL_MS;
+
   await db
-    .prepare("INSERT INTO users (id, email, name, password_hash, role) VALUES (?, ?, ?, ?, ?)")
-    .bind(id, email, name, passwordHash, "reader")
+    .prepare(
+      "INSERT INTO users (id, email, name, password_hash, role, email_verified, verification_token, verification_token_expires) VALUES (?, ?, ?, ?, ?, 0, ?, ?)",
+    )
+    .bind(id, email, name, passwordHash, "reader", verificationToken, verificationExpires)
     .run();
 
-  const user = { id, name, email, role: "reader" as const };
-  const token = await createSessionToken(user);
-  const res = NextResponse.json({ ok: true, user });
-  res.cookies.set(SESSION_COOKIE, token, sessionCookieOptions());
-  return res;
+  await sendVerificationEmail({ to: email, token: verificationToken, name });
+
+  // Do not log the user in until the email is confirmed.
+  return NextResponse.json({ ok: true, needsVerification: true, email });
 }

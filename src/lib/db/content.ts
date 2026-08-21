@@ -40,7 +40,7 @@ interface ArticleRow {
 }
 
 const VALID_STATUS: ArticleStatus[] = ["live", "breaking", "updated", "trending"];
-const FALLBACK_AUTHOR = "maya-kovac";
+const FALLBACK_AUTHOR = "ai-tech-desk";
 
 function rowToArticle(row: ArticleRow): Article {
   const status = VALID_STATUS.includes(row.status_tag as ArticleStatus)

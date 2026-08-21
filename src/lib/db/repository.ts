@@ -1,5 +1,6 @@
 import type { Article, Author, Category } from "@/content/types";
 import { tutorialArticles } from "@/content/articles/tutorials";
+import { libraryArticles } from "@/content/articles/library";
 import { authors as authorSeed } from "@/content/authors";
 import { categories as categorySeed } from "@/content/categories";
 import { affiliateCatalogs } from "@/content/affiliate";
@@ -37,7 +38,7 @@ export class StaticContentRepository implements ContentRepository {
   private readonly categories: Category[];
 
   constructor() {
-    this.articles = tutorialArticles;
+    this.articles = [...tutorialArticles, ...libraryArticles];
     this.authors = authorSeed;
     this.categories = categorySeed;
   }

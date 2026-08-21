@@ -231,7 +231,7 @@ export async function POST(request: Request) {
       title,
       excerpt,
       category,
-      null, // author_slug — rowToArticle falls back to the static maya-kovac
+      null, // author_slug — rowToArticle falls back to the static ai-tech-desk
       publish ? "published" : "draft",
       publish ? "breaking" : null,
       JSON.stringify(parseBody(contentText)),

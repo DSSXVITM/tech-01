@@ -12,31 +12,13 @@
 <path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
 </pattern>
 </defs>
-<rect width="1200" height="630" fill="url(#bg-a-gemini30vsclaude45)"/>
-<rect width="1200" height="630" fill="url(#glow-a-gemini30vsclaude45)"/>
-<rect width="1200" height="630" fill="url(#grid-a-gemini30vsclaude45)"/>
-<path d="M274 479 L274 602 L274 567 L274 522" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="274" cy="522" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M1111 226 L1200 226 L1200 388 L1200 388 L1200 388" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="1200" cy="388" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M343 112 L343 272 L343 245 L434 245 L434 234" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="434" cy="234" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M1037 27 L1012 27 L1198 27 L1198 37" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="1198" cy="37" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M560 401 L560 543 L622 543 L688 543" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="688" cy="543" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M1054 623 L1054 630 L1054 630 L1054 630" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="1054" cy="630" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M462 314 L652 314 L652 481 L652 602" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="652" cy="602" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M59 226 L132 226 L132 196 L132 168" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="132" cy="168" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M125 208 L235 208 L409 208 L496 208" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="496" cy="208" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M655 188 L855 188 L863 188 L999 188" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="999" cy="188" r="5" fill="#A970FF" fillOpacity="0.35"/><path d="M593 501 L554 501 L554 630 L554 630" fill="none" stroke="#A970FF" strokeOpacity="0.16" strokeWidth="2"/>
-<circle cx="554" cy="630" r="5" fill="#A970FF" fillOpacity="0.35"/>
+<rect width="1200" height="630" fill="url(#bg-a-gemini30vsclaude45)"/><rect width="1200" height="630" fill="url(#glow-a-gemini30vsclaude45)"/><rect width="1200" height="630" fill="url(#grid-a-gemini30vsclaude45)"/>
 <rect x="0" y="0" width="1200" height="6" fill="#A970FF"/>
-<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
-<rect x="86" y="166" width="120" height="5" fill="#A970FF"/>
-<rect x="86" y="60" width="10" height="10" fill="#A970FF"/>
-<rect x="104" y="78" width="6" height="6" fill="#A970FF" opacity="0.5"/>
-<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Gemini 3.0 vs Claude 4.5: Two</text>
-<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Different Ways of Thinking</text>
-<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">MODELS</text>
-<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#A970FF">AI TECH MEDIA</text>
-<rect x="1096" y="460" width="18" height="110" fill="#A970FF" opacity="0.9"/>
-<rect x="1122" y="484" width="8" height="86" fill="#A970FF" opacity="0.45"/>
-<rect x="86" y="594" width="1028" height="2" fill="#A970FF" opacity="0.35"/>
+<rect x="0" y="624" width="1200" height="6" fill="#A970FF"/>
+<text x="600" y="118" fontFamily="IBM Plex Mono, monospace" fontSize="26" letterSpacing="12" fill="#A970FF" text-anchor="middle">MODELS</text>
+<circle cx="600" cy="290" r="196" fill="none" stroke="#A970FF" strokeOpacity="0.12" strokeWidth="2"/>
+<g transform="translate(450 140)" fill="none" stroke="#A970FF" strokeWidth="11" strokeLinecap="round" strokeLinejoin="round"><circle cx="150" cy="150" r="39" fill="#A970FF" stroke="none"/><line x1="150" y1="150" x2="24" y2="42.00000000000001"/><circle cx="24" cy="42.00000000000001" r="21.000000000000004"/><line x1="150" y1="150" x2="270" y2="54"/><circle cx="270" cy="54" r="21.000000000000004"/><line x1="150" y1="150" x2="258" y2="252"/><circle cx="258" cy="252" r="21.000000000000004"/><line x1="150" y1="150" x2="42.00000000000001" y2="245.99999999999997"/><circle cx="42.00000000000001" cy="245.99999999999997" r="21.000000000000004"/></g>
+<text x="600" y="506" text-anchor="middle" fontFamily="'Big Shoulders Display', sans-serif" fontSize="54" fontWeight="800" fill="#F2F3F7">Gemini 3.0 vs Claude 4.5: Two</text>
+<text x="600" y="566" text-anchor="middle" fontFamily="'Big Shoulders Display', sans-serif" fontSize="54" fontWeight="800" fill="#F2F3F7">Different Ways of Thinking</text>
+<text x="600" y="612" fontFamily="IBM Plex Mono, monospace" fontSize="18" letterSpacing="8" fill="#8891A6" text-anchor="middle">AI TECH MEDIA</text>
 </svg>
