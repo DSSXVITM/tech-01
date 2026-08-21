@@ -1,5 +1,12 @@
+import { existsSync } from "node:fs";
+import { join } from "node:path";
 import type { Article, CategorySlug, ContentBlock, Difficulty } from "../../types";
 import { coverCredits } from "./credits";
+
+const COVER_DIR = join(process.cwd(), "public", "images", "articles");
+function coverSrc(slug: string): string | undefined {
+  return existsSync(join(COVER_DIR, `${slug}.jpg`)) ? `/images/articles/${slug}.jpg` : undefined;
+}
 
 /**
  * Library articles — a large static corpus (~56 per category, medium length).
@@ -182,7 +189,7 @@ export function buildLibraryArticle(
     status: STATUSES[index % STATUSES.length],
     ...(index % 14 === 0 ? { trendingRank: (index % 8) + 1 } : {}),
     image: {
-      src: undefined,
+      src: coverSrc(slug),
       cover: category,
       alt: seed.title,
       ...(coverCredits[slug] ? { credit: coverCredits[slug] } : {}),
