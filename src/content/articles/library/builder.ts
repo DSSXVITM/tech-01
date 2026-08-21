@@ -5,7 +5,9 @@ import { coverCredits } from "./credits";
 
 const COVER_DIR = join(process.cwd(), "public", "images", "articles");
 function coverSrc(slug: string): string | undefined {
-  return existsSync(join(COVER_DIR, `${slug}.jpg`)) ? `/images/articles/${slug}.jpg` : undefined;
+  if (existsSync(join(COVER_DIR, `${slug}.jpg`))) return `/images/articles/${slug}.jpg`;
+  if (existsSync(join(COVER_DIR, `${slug}.svg`))) return `/images/articles/${slug}.svg`;
+  return undefined;
 }
 
 /**
