@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Choose a Webcam for Streaming">
+<defs>
+<linearGradient id="bg-a-howtochooseawebcamforstreaming" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtochooseawebcamforstreaming" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f16b27" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f16b27" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtochooseawebcamforstreaming" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtochooseawebcamforstreaming)"/><rect width="1200" height="630" fill="url(#glow-a-howtochooseawebcamforstreaming)"/><rect width="1200" height="630" fill="url(#grid-a-howtochooseawebcamforstreaming)"/>
+<path d="M389 485 L522 485 L522 486 L657 486 L657 630" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="657" cy="630" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M447 109 L447 191 L447 258" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="447" cy="258" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M1054 274 L1054 435 L1054 598" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1054" cy="598" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M384 285 L384 460 L384 523 L384 492 L576 492" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="576" cy="492" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M847 413 L847 543 L847 630 L915 630" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="915" cy="630" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M830 422 L830 597 L830 630" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="830" cy="630" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M450 398 L450 369 L450 344 L604 344 L604 544" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="604" cy="544" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M843 410 L843 395 L843 552" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="843" cy="552" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M669 135 L788 135 L810 135 L810 218" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="810" cy="218" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M972 135 L972 125 L972 138 L1148 138" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1148" cy="138" r="5" fill="#f16b27" fillOpacity="0.35"/><path d="M975 212 L975 198 L1159 198 L1159 333 L1159 384" fill="none" stroke="#f16b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1159" cy="384" r="5" fill="#f16b27" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f16b27"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f16b27"/>
+<rect x="86" y="60" width="10" height="10" fill="#f16b27"/>
+<rect x="104" y="78" width="6" height="6" fill="#f16b27" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f16b27" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><line x1="15.6" y1="0" x2="15.6" y2="15.6"/><line x1="15.6" y1="114.4" x2="15.6" y2="130"/><line x1="0" y1="15.6" x2="15.6" y2="15.6"/><line x1="114.4" y1="15.6" x2="130" y2="15.6"/><line x1="41.6" y1="0" x2="41.6" y2="15.6"/><line x1="41.6" y1="114.4" x2="41.6" y2="130"/><line x1="0" y1="41.6" x2="15.6" y2="41.6"/><line x1="114.4" y1="41.6" x2="130" y2="41.6"/><line x1="67.6" y1="0" x2="67.6" y2="15.6"/><line x1="67.6" y1="114.4" x2="67.6" y2="130"/><line x1="0" y1="67.6" x2="15.6" y2="67.6"/><line x1="114.4" y1="67.6" x2="130" y2="67.6"/><line x1="93.6" y1="0" x2="93.6" y2="15.6"/><line x1="93.6" y1="114.4" x2="93.6" y2="130"/><line x1="0" y1="93.6" x2="15.6" y2="93.6"/><line x1="114.4" y1="93.6" x2="130" y2="93.6"/><rect x="15.6" y="15.6" width="98.8" height="98.8" rx="10.4"/><rect x="39" y="39" width="52" height="52" rx="5.2"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Choose a Webcam for</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Streaming</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">WEBCAM</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f16b27">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f16b27" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f16b27" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f16b27" opacity="0.35"/>
+</svg>

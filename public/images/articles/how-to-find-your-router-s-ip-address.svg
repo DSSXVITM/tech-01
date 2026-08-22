@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Find Your Router's IP Address">
+<defs>
+<linearGradient id="bg-a-howtofindyourroutersipaddress" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtofindyourroutersipaddress" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27d3f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27d3f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtofindyourroutersipaddress" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtofindyourroutersipaddress)"/><rect width="1200" height="630" fill="url(#glow-a-howtofindyourroutersipaddress)"/><rect width="1200" height="630" fill="url(#grid-a-howtofindyourroutersipaddress)"/>
+<path d="M405 271 L405 389 L405 593" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="405" cy="593" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M1153 347 L1192 347 L1185 347 L1185 458" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1185" cy="458" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M1098 277 L1200 277 L1200 277 L1200 366 L1200 366" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="366" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M118 143 L118 301 L118 393" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="118" cy="393" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M564 281 L564 247 L564 368 L564 575 L564 630" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="564" cy="630" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M1081 584 L1133 584 L1133 629 L1200 629" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="629" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M179 608 L272 608 L272 630" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="272" cy="630" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M630 618 L757 618 L757 588" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="757" cy="588" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M294 383 L294 407 L369 407 L369 577" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="369" cy="577" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M253 89 L253 146 L253 345 L253 327 L253 382" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="253" cy="382" r="5" fill="#27d3f1" fillOpacity="0.35"/><path d="M346 596 L533 596 L533 614 L533 630 L723 630" fill="none" stroke="#27d3f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="723" cy="630" r="5" fill="#27d3f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27d3f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27d3f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#27d3f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#27d3f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27d3f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="11.7" fill="#27d3f1" stroke="none"/><line x1="65" y1="65" x2="0" y2="0"/><line x1="65" y1="65" x2="130" y2="0"/><line x1="65" y1="65" x2="130" y2="130"/><line x1="65" y1="65" x2="0" y2="130"/><circle cx="0" cy="0" r="7.15"/><circle cx="130" cy="0" r="7.15"/><circle cx="130" cy="130" r="7.15"/><circle cx="0" cy="130" r="7.15"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Find Your Router's IP</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Address</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">ROUTER</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27d3f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27d3f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27d3f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27d3f1" opacity="0.35"/>
+</svg>

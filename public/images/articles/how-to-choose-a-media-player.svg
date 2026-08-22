@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Choose a Media Player">
+<defs>
+<linearGradient id="bg-a-howtochooseamediaplayer" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtochooseamediaplayer" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#7f27f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#7f27f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtochooseamediaplayer" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtochooseamediaplayer)"/><rect width="1200" height="630" fill="url(#glow-a-howtochooseamediaplayer)"/><rect width="1200" height="630" fill="url(#grid-a-howtochooseamediaplayer)"/>
+<path d="M353 560 L353 630 L353 630 L523 630" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="523" cy="630" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M433 112 L599 112 L746 112 L753 112 L899 112" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="899" cy="112" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M330 543 L330 502 L427 502" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="427" cy="502" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M360 129 L360 122 L360 159 L512 159" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="512" cy="159" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M912 426 L968 426 L1098 426 L1082 426" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1082" cy="426" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M480 27 L480 130 L480 182 L673 182 L673 160" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="673" cy="160" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M853 546 L1049 546 L1192 546" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1192" cy="546" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M287 267 L287 247 L287 254" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="287" cy="254" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M501 367 L596 367 L627 367" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="627" cy="367" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M935 124 L935 322 L907 322 L907 485 L907 486" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="907" cy="486" r="5" fill="#7f27f1" fillOpacity="0.35"/><path d="M970 291 L1097 291 L1097 340" fill="none" stroke="#7f27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1097" cy="340" r="5" fill="#7f27f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#7f27f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#7f27f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#7f27f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#7f27f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#7f27f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="91" rx="13"/><line x1="0" y1="26" x2="130" y2="26"/><rect x="18.200000000000003" y="59.800000000000004" width="93.6" height="57.2" rx="10.4" opacity="0.55"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Choose a Media Player</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">MEDIA</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#7f27f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#7f27f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#7f27f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#7f27f1" opacity="0.35"/>
+</svg>

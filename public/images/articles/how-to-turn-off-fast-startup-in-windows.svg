@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Turn Off Fast Startup in Windows">
+<defs>
+<linearGradient id="bg-a-howtoturnofffaststartupinwindows" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoturnofffaststartupinwindows" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#5027f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#5027f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoturnofffaststartupinwindows" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoturnofffaststartupinwindows)"/><rect width="1200" height="630" fill="url(#glow-a-howtoturnofffaststartupinwindows)"/><rect width="1200" height="630" fill="url(#grid-a-howtoturnofffaststartupinwindows)"/>
+<path d="M812 209 L776 209 L844 209" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="844" cy="209" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M608 140 L608 229 L608 252" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="608" cy="252" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M204 465 L204 419 L354 419 L454 419 L473 419" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="473" cy="419" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M546 373 L546 326 L546 287 L546 305" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="546" cy="305" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M93 7 L232 7 L227 7 L217 7 L392 7" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="392" cy="7" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M83 367 L127 367 L127 390" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="127" cy="390" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M1067 441 L1075 441 L1075 514" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1075" cy="514" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M1138 364 L1200 364 L1200 364" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="364" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M814 580 L814 630 L814 630 L814 630" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="814" cy="630" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M205 374 L201 374 L201 431 L201 560" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="201" cy="560" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M901 75 L955 75 L986 75" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="986" cy="75" r="5" fill="#5027f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#5027f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#5027f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#5027f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#5027f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#5027f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="65" height="65" rx="10.4"/><rect x="72.80000000000001" y="0" width="65" height="65" rx="10.4"/><rect x="0" y="72.80000000000001" width="65" height="65" rx="10.4"/><rect x="72.80000000000001" y="72.80000000000001" width="65" height="65" rx="10.4"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Turn Off Fast Startup in</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Windows</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">POWER</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#5027f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#5027f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#5027f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#5027f1" opacity="0.35"/>
+</svg>

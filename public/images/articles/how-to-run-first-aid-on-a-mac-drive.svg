@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Run First Aid on a Mac Drive">
+<defs>
+<linearGradient id="bg-a-howtorunfirstaidonamacdrive" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtorunfirstaidonamacdrive" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27c9f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27c9f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtorunfirstaidonamacdrive" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtorunfirstaidonamacdrive)"/><rect width="1200" height="630" fill="url(#glow-a-howtorunfirstaidonamacdrive)"/><rect width="1200" height="630" fill="url(#grid-a-howtorunfirstaidonamacdrive)"/>
+<path d="M1059 178 L1129 178 L1129 296" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1129" cy="296" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M1189 473 L1200 473 L1200 473 L1200 630 L1200 630" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="630" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M516 74 L516 29 L686 29 L803 29" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="803" cy="29" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M437 367 L437 400 L469 400 L469 559 L487 559" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="487" cy="559" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M30 468 L184 468 L184 551 L184 583" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="184" cy="583" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M656 17 L656 206 L656 251 L652 251" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="652" cy="251" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M124 245 L115 245 L115 290 L115 407" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="115" cy="407" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M261 349 L440 349 L440 549" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="440" cy="549" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M918 346 L918 444 L918 449 L918 615" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="918" cy="615" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M845 409 L798 409 L798 519 L880 519 L880 630" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="880" cy="630" r="5" fill="#27c9f1" fillOpacity="0.35"/><path d="M16 295 L16 301 L16 372 L162 372 L162 577" fill="none" stroke="#27c9f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="162" cy="577" r="5" fill="#27c9f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27c9f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27c9f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#27c9f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#27c9f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27c9f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="93.6" rx="16.900000000000002"/><line x1="0" y1="130" x2="130" y2="130"/><circle cx="19.5" cy="23.4" r="6.5" fill="#27c9f1" stroke="none"/><circle cx="37.699999999999996" cy="23.4" r="6.5"/><circle cx="55.9" cy="23.4" r="6.5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Run First Aid on a Mac</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Drive</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">DISK UTILITY</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27c9f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27c9f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27c9f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27c9f1" opacity="0.35"/>
+</svg>

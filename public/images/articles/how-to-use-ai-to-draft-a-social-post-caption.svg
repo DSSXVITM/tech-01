@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Use AI to Draft a Social Post Caption">
+<defs>
+<linearGradient id="bg-a-howtouseaitodraftasocialpostcaption" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtouseaitodraftasocialpostcaption" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#ea27f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#ea27f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtouseaitodraftasocialpostcaption" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtouseaitodraftasocialpostcaption)"/><rect width="1200" height="630" fill="url(#glow-a-howtouseaitodraftasocialpostcaption)"/><rect width="1200" height="630" fill="url(#grid-a-howtouseaitodraftasocialpostcaption)"/>
+<path d="M680 218 L658 218 L799 218 L799 224 L750 224" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="750" cy="224" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M52 46 L200 46 L247 46 L247 110 L429 110" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="429" cy="110" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M1131 474 L1116 474 L1092 474 L1092 454" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1092" cy="454" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M1174 389 L1174 405 L1196 405" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1196" cy="405" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M564 434 L564 556 L564 630 L648 630" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="648" cy="630" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M333 74 L333 109 L426 109 L596 109 L596 187" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="596" cy="187" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M713 204 L713 211 L784 211 L797 211" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="797" cy="211" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M614 93 L598 93 L598 48" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="598" cy="48" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M652 208 L807 208 L807 228 L807 240 L1000 240" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1000" cy="240" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M93 9 L93 0 L93 41" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="93" cy="41" r="5" fill="#ea27f1" fillOpacity="0.35"/><path d="M1087 44 L1087 143 L1200 143" fill="none" stroke="#ea27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="143" r="5" fill="#ea27f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#ea27f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#ea27f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#ea27f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#ea27f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#ea27f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="16.900000000000002" fill="#ea27f1" stroke="none"/><line x1="65" y1="65" x2="10.4" y2="18.200000000000003"/><circle cx="10.4" cy="18.200000000000003" r="9.100000000000001"/><line x1="65" y1="65" x2="117" y2="23.4"/><circle cx="117" cy="23.4" r="9.100000000000001"/><line x1="65" y1="65" x2="111.8" y2="109.2"/><circle cx="111.8" cy="109.2" r="9.100000000000001"/><line x1="65" y1="65" x2="18.200000000000003" y2="106.6"/><circle cx="18.200000000000003" cy="106.6" r="9.100000000000001"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Use AI to Draft a Social</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Post Caption</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">SOCIAL-MEDIA</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#ea27f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#ea27f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#ea27f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#ea27f1" opacity="0.35"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Use Git Stash to Save Work">
+<defs>
+<linearGradient id="bg-a-howtousegitstashtosavework" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtousegitstashtosavework" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f1c927" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f1c927" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtousegitstashtosavework" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtousegitstashtosavework)"/><rect width="1200" height="630" fill="url(#glow-a-howtousegitstashtosavework)"/><rect width="1200" height="630" fill="url(#grid-a-howtousegitstashtosavework)"/>
+<path d="M159 570 L261 570 L261 585 L261 630 L261 630" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="261" cy="630" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M1056 553 L1109 553 L1140 553" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1140" cy="553" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M755 563 L755 546 L942 546 L1029 546 L1016 546" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1016" cy="546" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M147 149 L147 187 L147 171" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="147" cy="171" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M323 616 L292 616 L292 630 L292 630" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="292" cy="630" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M350 392 L552 392 L552 354 L552 309 L552 393" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="552" cy="393" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M1065 501 L1200 501 L1200 523" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="523" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M388 302 L347 302 L416 302" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="416" cy="302" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M1055 133 L1090 133 L1155 133" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1155" cy="133" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M966 617 L966 630 L966 630 L941 630" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="941" cy="630" r="5" fill="#f1c927" fillOpacity="0.35"/><path d="M463 423 L463 542 L473 542 L473 630 L548 630" fill="none" stroke="#f1c927" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="548" cy="630" r="5" fill="#f1c927" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f1c927"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f1c927"/>
+<rect x="86" y="60" width="10" height="10" fill="#f1c927"/>
+<rect x="104" y="78" width="6" height="6" fill="#f1c927" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f1c927" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M23.4 7.8 L0 65 L23.4 122.19999999999999"/><path d="M106.6 7.8 L130 65 L106.6 122.19999999999999"/><line x1="65" y1="2.6" x2="54.6" y2="127.39999999999999"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Use Git Stash to Save Work</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">GIT</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f1c927">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f1c927" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f1c927" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f1c927" opacity="0.35"/>
+</svg>

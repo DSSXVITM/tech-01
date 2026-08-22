@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Clean Dust Out of a Desktop PC">
+<defs>
+<linearGradient id="bg-a-howtocleandustoutofadesktoppc" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtocleandustoutofadesktoppc" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f12778" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f12778" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtocleandustoutofadesktoppc" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtocleandustoutofadesktoppc)"/><rect width="1200" height="630" fill="url(#glow-a-howtocleandustoutofadesktoppc)"/><rect width="1200" height="630" fill="url(#grid-a-howtocleandustoutofadesktoppc)"/>
+<path d="M196 67 L196 133 L196 288 L196 404 L150 404" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="150" cy="404" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M918 453 L918 508 L918 464 L918 581" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="918" cy="581" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M522 319 L522 348 L647 348 L647 350 L783 350" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="783" cy="350" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M70 233 L70 196 L70 236 L70 244" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="70" cy="244" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M293 213 L329 213 L329 393" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="329" cy="393" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M8 542 L8 630 L8 630 L23 630" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="23" cy="630" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M844 13 L844 169 L951 169 L951 281 L951 341" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="951" cy="341" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M810 565 L968 565 L939 565 L906 565" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="906" cy="565" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M1167 212 L1167 362 L1167 364 L1200 364" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="364" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M578 177 L578 372 L693 372 L693 349" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="693" cy="349" r="5" fill="#f12778" fillOpacity="0.35"/><path d="M561 68 L663 68 L663 127" fill="none" stroke="#f12778" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="663" cy="127" r="5" fill="#f12778" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f12778"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f12778"/>
+<rect x="86" y="60" width="10" height="10" fill="#f12778"/>
+<rect x="104" y="78" width="6" height="6" fill="#f12778" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f12778" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><line x1="15.6" y1="0" x2="15.6" y2="15.6"/><line x1="15.6" y1="114.4" x2="15.6" y2="130"/><line x1="0" y1="15.6" x2="15.6" y2="15.6"/><line x1="114.4" y1="15.6" x2="130" y2="15.6"/><line x1="41.6" y1="0" x2="41.6" y2="15.6"/><line x1="41.6" y1="114.4" x2="41.6" y2="130"/><line x1="0" y1="41.6" x2="15.6" y2="41.6"/><line x1="114.4" y1="41.6" x2="130" y2="41.6"/><line x1="67.6" y1="0" x2="67.6" y2="15.6"/><line x1="67.6" y1="114.4" x2="67.6" y2="130"/><line x1="0" y1="67.6" x2="15.6" y2="67.6"/><line x1="114.4" y1="67.6" x2="130" y2="67.6"/><line x1="93.6" y1="0" x2="93.6" y2="15.6"/><line x1="93.6" y1="114.4" x2="93.6" y2="130"/><line x1="0" y1="93.6" x2="15.6" y2="93.6"/><line x1="114.4" y1="93.6" x2="130" y2="93.6"/><rect x="15.6" y="15.6" width="98.8" height="98.8" rx="10.4"/><rect x="39" y="39" width="52" height="52" rx="5.2"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Clean Dust Out of a Desktop</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">PC</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">CLEANING</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f12778">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f12778" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f12778" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f12778" opacity="0.35"/>
+</svg>

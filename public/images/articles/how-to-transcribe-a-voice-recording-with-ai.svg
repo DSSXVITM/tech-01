@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Transcribe a Voice Recording With AI">
+<defs>
+<linearGradient id="bg-a-howtotranscribeavoicerecordingwithai" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtotranscribeavoicerecordingwithai" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f12756" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f12756" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtotranscribeavoicerecordingwithai" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtotranscribeavoicerecordingwithai)"/><rect width="1200" height="630" fill="url(#glow-a-howtotranscribeavoicerecordingwithai)"/><rect width="1200" height="630" fill="url(#grid-a-howtotranscribeavoicerecordingwithai)"/>
+<path d="M277 320 L277 526 L277 630 L365 630 L362 630" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="362" cy="630" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M1139 292 L1135 292 L1162 292 L1200 292 L1200 266" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="266" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M788 629 L788 630 L827 630" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="827" cy="630" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M653 370 L747 370 L789 370 L756 370 L959 370" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="959" cy="370" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M49 205 L242 205 L242 412 L242 576 L360 576" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="360" cy="576" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M1136 298 L1136 278 L1136 442" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1136" cy="442" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M575 466 L638 466 L588 466 L675 466 L675 486" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="675" cy="486" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M432 629 L485 629 L485 630" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="485" cy="630" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M28 610 L28 605 L28 566 L28 546 L75 546" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="75" cy="546" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M347 372 L347 367 L522 367 L522 424 L472 424" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="472" cy="424" r="5" fill="#f12756" fillOpacity="0.35"/><path d="M717 10 L717 30 L717 86 L796 86 L796 78" fill="none" stroke="#f12756" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="796" cy="78" r="5" fill="#f12756" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f12756"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f12756"/>
+<rect x="86" y="60" width="10" height="10" fill="#f12756"/>
+<rect x="104" y="78" width="6" height="6" fill="#f12756" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f12756" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="16.900000000000002" fill="#f12756" stroke="none"/><line x1="65" y1="65" x2="10.4" y2="18.200000000000003"/><circle cx="10.4" cy="18.200000000000003" r="9.100000000000001"/><line x1="65" y1="65" x2="117" y2="23.4"/><circle cx="117" cy="23.4" r="9.100000000000001"/><line x1="65" y1="65" x2="111.8" y2="109.2"/><circle cx="111.8" cy="109.2" r="9.100000000000001"/><line x1="65" y1="65" x2="18.200000000000003" y2="106.6"/><circle cx="18.200000000000003" cy="106.6" r="9.100000000000001"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Transcribe a Voice</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Recording With AI</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">TRANSCRIPTION</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f12756">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f12756" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f12756" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f12756" opacity="0.35"/>
+</svg>

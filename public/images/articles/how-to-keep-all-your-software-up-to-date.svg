@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Keep All Your Software Up to Date">
+<defs>
+<linearGradient id="bg-a-howtokeepallyoursoftwareuptodate" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtokeepallyoursoftwareuptodate" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#2e27f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#2e27f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtokeepallyoursoftwareuptodate" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtokeepallyoursoftwareuptodate)"/><rect width="1200" height="630" fill="url(#glow-a-howtokeepallyoursoftwareuptodate)"/><rect width="1200" height="630" fill="url(#grid-a-howtokeepallyoursoftwareuptodate)"/>
+<path d="M950 28 L922 28 L922 229" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="922" cy="229" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M216 268 L216 431 L216 493 L196 493 L196 599" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="196" cy="599" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M778 309 L778 427 L763 427 L763 568 L762 568" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="762" cy="568" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M29 156 L16 156 L16 251" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="16" cy="251" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M333 318 L380 318 L380 464 L336 464 L336 594" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="336" cy="594" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M575 450 L732 450 L831 450" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="831" cy="450" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M360 379 L360 450 L519 450 L562 450" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="562" cy="450" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M935 145 L935 215 L935 414" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="935" cy="414" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M1085 371 L1200 371 L1200 439" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="439" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M301 308 L504 308 L504 302 L485 302 L571 302" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="571" cy="302" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M798 310 L772 310 L798 310" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="798" cy="310" r="5" fill="#2e27f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#2e27f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#2e27f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#2e27f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#2e27f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#2e27f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="91" rx="13"/><line x1="0" y1="26" x2="130" y2="26"/><rect x="18.200000000000003" y="59.800000000000004" width="93.6" height="57.2" rx="10.4" opacity="0.55"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Keep All Your Software Up</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">to Date</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">UPDATE</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#2e27f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#2e27f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#2e27f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#2e27f1" opacity="0.35"/>
+</svg>

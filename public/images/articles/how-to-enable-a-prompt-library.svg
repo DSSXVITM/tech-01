@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Enable a Prompt Library">
+<defs>
+<linearGradient id="bg-a-howtoenableapromptlibrary" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoenableapromptlibrary" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f127a7" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f127a7" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoenableapromptlibrary" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoenableapromptlibrary)"/><rect width="1200" height="630" fill="url(#glow-a-howtoenableapromptlibrary)"/><rect width="1200" height="630" fill="url(#grid-a-howtoenableapromptlibrary)"/>
+<path d="M264 222 L239 222 L239 292 L239 281" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="239" cy="281" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M756 356 L756 548 L787 548" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="787" cy="548" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M693 319 L693 439 L693 440 L670 440" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="670" cy="440" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M446 535 L528 535 L528 508 L504 508 L556 508" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="556" cy="508" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M316 177 L316 360 L316 351 L316 406" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="316" cy="406" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M574 375 L606 375 L624 375 L737 375" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="737" cy="375" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M241 112 L241 81 L375 81" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="375" cy="81" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M422 70 L497 70 L565 70" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="565" cy="70" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M739 619 L739 630 L739 630 L739 630" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="739" cy="630" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M665 238 L682 238 L682 218 L682 327 L682 459" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="682" cy="459" r="5" fill="#f127a7" fillOpacity="0.35"/><path d="M223 629 L261 629 L261 604" fill="none" stroke="#f127a7" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="261" cy="604" r="5" fill="#f127a7" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f127a7"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f127a7"/>
+<rect x="86" y="60" width="10" height="10" fill="#f127a7"/>
+<rect x="104" y="78" width="6" height="6" fill="#f127a7" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f127a7" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="16.900000000000002" fill="#f127a7" stroke="none"/><line x1="65" y1="65" x2="10.4" y2="18.200000000000003"/><circle cx="10.4" cy="18.200000000000003" r="9.100000000000001"/><line x1="65" y1="65" x2="117" y2="23.4"/><circle cx="117" cy="23.4" r="9.100000000000001"/><line x1="65" y1="65" x2="111.8" y2="109.2"/><circle cx="111.8" cy="109.2" r="9.100000000000001"/><line x1="65" y1="65" x2="18.200000000000003" y2="106.6"/><circle cx="18.200000000000003" cy="106.6" r="9.100000000000001"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Enable a Prompt Library</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PRIVACY</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f127a7">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f127a7" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f127a7" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f127a7" opacity="0.35"/>
+</svg>

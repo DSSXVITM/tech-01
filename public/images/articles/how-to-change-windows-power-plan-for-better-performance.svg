@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Change Windows Power Plan for Better Performance">
+<defs>
+<linearGradient id="bg-a-howtochangewindowspowerplanforbetterperformance" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtochangewindowspowerplanforbetterperformance" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#7827f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#7827f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtochangewindowspowerplanforbetterperformance" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtochangewindowspowerplanforbetterperformance)"/><rect width="1200" height="630" fill="url(#glow-a-howtochangewindowspowerplanforbetterperformance)"/><rect width="1200" height="630" fill="url(#grid-a-howtochangewindowspowerplanforbetterperformance)"/>
+<path d="M45 184 L45 339 L44 339 L44 396" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="44" cy="396" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M926 459 L1018 459 L1018 630 L1113 630" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1113" cy="630" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M1199 54 L1200 54 L1200 11 L1200 11 L1200 11" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="11" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M252 210 L252 376 L353 376 L473 376" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="473" cy="376" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M944 454 L1001 454 L1001 455 L1021 455 L1021 575" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1021" cy="575" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M1010 582 L1010 613 L1000 613 L1000 630 L1000 630" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1000" cy="630" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M1088 507 L1149 507 L1111 507 L1116 507" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1116" cy="507" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M971 41 L971 152 L971 177" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="971" cy="177" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M18 129 L18 319 L156 319 L273 319" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="273" cy="319" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M925 549 L1116 549 L1157 549" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1157" cy="549" r="5" fill="#7827f1" fillOpacity="0.35"/><path d="M270 2 L270 56 L435 56 L477 56" fill="none" stroke="#7827f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="477" cy="56" r="5" fill="#7827f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#7827f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#7827f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#7827f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#7827f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#7827f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="65" height="65" rx="10.4"/><rect x="72.80000000000001" y="0" width="65" height="65" rx="10.4"/><rect x="0" y="72.80000000000001" width="65" height="65" rx="10.4"/><rect x="72.80000000000001" y="72.80000000000001" width="65" height="65" rx="10.4"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Change Windows Power Plan</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">for Better Performance</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PERFORMANCE</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#7827f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#7827f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#7827f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#7827f1" opacity="0.35"/>
+</svg>

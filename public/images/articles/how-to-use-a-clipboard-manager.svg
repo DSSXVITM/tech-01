@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Use a Clipboard Manager">
+<defs>
+<linearGradient id="bg-a-howtouseaclipboardmanager" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtouseaclipboardmanager" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#2e27f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#2e27f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtouseaclipboardmanager" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtouseaclipboardmanager)"/><rect width="1200" height="630" fill="url(#glow-a-howtouseaclipboardmanager)"/><rect width="1200" height="630" fill="url(#grid-a-howtouseaclipboardmanager)"/>
+<path d="M648 64 L786 64 L750 64 L878 64" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="878" cy="64" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M1184 82 L1150 82 L1180 82" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1180" cy="82" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M36 564 L36 520 L226 520 L175 520 L175 630" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="175" cy="630" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M1153 174 L1153 360 L1200 360 L1200 360 L1200 409" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="409" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M367 488 L446 488 L593 488" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="593" cy="488" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M4 67 L184 67 L184 24 L184 0 L180 0" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="180" cy="0" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M104 420 L104 610 L250 610 L250 630 L455 630" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="455" cy="630" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M58 107 L58 233 L58 421 L215 421" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="215" cy="421" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M314 448 L452 448 L452 630 L452 630 L568 630" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="568" cy="630" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M212 314 L414 314 L414 419" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="414" cy="419" r="5" fill="#2e27f1" fillOpacity="0.35"/><path d="M955 550 L987 550 L1056 550 L1107 550 L1107 593" fill="none" stroke="#2e27f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1107" cy="593" r="5" fill="#2e27f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#2e27f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#2e27f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#2e27f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#2e27f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#2e27f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="91" rx="13"/><line x1="0" y1="26" x2="130" y2="26"/><rect x="18.200000000000003" y="59.800000000000004" width="93.6" height="57.2" rx="10.4" opacity="0.55"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Use a Clipboard Manager</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PRODUCTIVITY</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#2e27f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#2e27f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#2e27f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#2e27f1" opacity="0.35"/>
+</svg>

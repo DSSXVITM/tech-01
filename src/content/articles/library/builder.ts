@@ -10,7 +10,7 @@ function coverSrc(slug: string): string | undefined {
   // Uses a precomputed manifest (not existsSync) so cover detection works at
   // request time too — Cloudflare Workers have no public/ filesystem.
   if (!COVER_SLUGS.has(slug)) return undefined;
-  return `${COVER_BASE_URL}/images/articles/${slug}.jpg`;
+  return `${COVER_BASE_URL}/images/articles/${slug}.svg`;
 }
 
 /**

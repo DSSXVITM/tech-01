@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Create a Chatbot">
+<defs>
+<linearGradient id="bg-a-howtocreateachatbot" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtocreateachatbot" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f127c2" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f127c2" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtocreateachatbot" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtocreateachatbot)"/><rect width="1200" height="630" fill="url(#glow-a-howtocreateachatbot)"/><rect width="1200" height="630" fill="url(#grid-a-howtocreateachatbot)"/>
+<path d="M954 220 L1017 220 L1017 181" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1017" cy="181" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M624 614 L624 621 L624 630 L750 630" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="750" cy="630" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M756 547 L944 547 L1040 547 L1040 630 L1040 630" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1040" cy="630" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M335 257 L335 293 L335 345 L297 345" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="297" cy="345" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M106 552 L106 630 L106 630 L106 630 L106 630" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="106" cy="630" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M181 136 L135 136 L135 138" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="135" cy="138" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M313 359 L521 359 L521 541 L528 541" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="528" cy="541" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M846 260 L846 299 L997 299 L997 295" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="997" cy="295" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M549 46 L716 46 L869 46" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="869" cy="46" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M417 69 L417 251 L563 251" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="563" cy="251" r="5" fill="#f127c2" fillOpacity="0.35"/><path d="M380 441 L380 481 L380 588" fill="none" stroke="#f127c2" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="380" cy="588" r="5" fill="#f127c2" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f127c2"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f127c2"/>
+<rect x="86" y="60" width="10" height="10" fill="#f127c2"/>
+<rect x="104" y="78" width="6" height="6" fill="#f127c2" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f127c2" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="16.900000000000002" fill="#f127c2" stroke="none"/><line x1="65" y1="65" x2="10.4" y2="18.200000000000003"/><circle cx="10.4" cy="18.200000000000003" r="9.100000000000001"/><line x1="65" y1="65" x2="117" y2="23.4"/><circle cx="117" cy="23.4" r="9.100000000000001"/><line x1="65" y1="65" x2="111.8" y2="109.2"/><circle cx="111.8" cy="109.2" r="9.100000000000001"/><line x1="65" y1="65" x2="18.200000000000003" y2="106.6"/><circle cx="18.200000000000003" cy="106.6" r="9.100000000000001"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Create a Chatbot</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">HOW-TO</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f127c2">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f127c2" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f127c2" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f127c2" opacity="0.35"/>
+</svg>

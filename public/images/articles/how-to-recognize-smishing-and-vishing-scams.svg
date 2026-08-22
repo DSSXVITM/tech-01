@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Recognize Smishing and Vishing Scams">
+<defs>
+<linearGradient id="bg-a-howtorecognizesmishingandvishingscams" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtorecognizesmishingandvishingscams" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27c2f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27c2f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtorecognizesmishingandvishingscams" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtorecognizesmishingandvishingscams)"/><rect width="1200" height="630" fill="url(#glow-a-howtorecognizesmishingandvishingscams)"/><rect width="1200" height="630" fill="url(#grid-a-howtorecognizesmishingandvishingscams)"/>
+<path d="M218 285 L307 285 L307 236 L307 303" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="307" cy="303" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M390 522 L390 494 L569 494 L569 580" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="569" cy="580" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M1048 419 L1062 419 L1062 443 L1062 538" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1062" cy="538" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M347 185 L347 200 L542 200" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="542" cy="200" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M323 202 L291 202 L291 153 L366 153 L366 357" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="366" cy="357" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M429 372 L400 372 L415 372" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="415" cy="372" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M149 513 L149 495 L149 630 L149 630" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="149" cy="630" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M669 511 L669 598 L669 564 L669 568" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="669" cy="568" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M803 477 L764 477 L764 630 L902 630" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="902" cy="630" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M348 151 L518 151 L518 274 L679 274 L679 370" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="679" cy="370" r="5" fill="#27c2f1" fillOpacity="0.35"/><path d="M500 608 L642 608 L716 608 L839 608" fill="none" stroke="#27c2f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="839" cy="608" r="5" fill="#27c2f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27c2f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27c2f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#27c2f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#27c2f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27c2f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M65 0 L130 16.900000000000002 L122.19999999999999 85.8 Q101.4 117 65 130 Q28.6 117 7.8 85.8 L0 16.900000000000002 Z"/><path d="M36.400000000000006 65 L57.2 85.8 L96.2 41.6" strokeWidth="5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Recognize Smishing and</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Vishing Scams</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PHISHING</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27c2f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27c2f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27c2f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27c2f1" opacity="0.35"/>
+</svg>

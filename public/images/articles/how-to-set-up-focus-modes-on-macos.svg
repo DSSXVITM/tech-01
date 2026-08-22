@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Set Up Focus Modes on macOS">
+<defs>
+<linearGradient id="bg-a-howtosetupfocusmodesonmacos" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtosetupfocusmodesonmacos" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#5027f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#5027f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtosetupfocusmodesonmacos" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtosetupfocusmodesonmacos)"/><rect width="1200" height="630" fill="url(#glow-a-howtosetupfocusmodesonmacos)"/><rect width="1200" height="630" fill="url(#grid-a-howtosetupfocusmodesonmacos)"/>
+<path d="M935 24 L907 24 L907 157" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="907" cy="157" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M463 608 L463 630 L463 630 L515 630" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="515" cy="630" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M596 145 L596 140 L596 170 L596 206 L596 202" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="596" cy="202" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M529 170 L529 120 L529 283" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="529" cy="283" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M326 268 L304 268 L372 268" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="372" cy="268" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M653 171 L751 171 L751 310 L751 363 L751 465" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="751" cy="465" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M220 233 L220 426 L209 426 L198 426 L175 426" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="175" cy="426" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M363 329 L316 329 L323 329 L397 329 L397 337" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="397" cy="337" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M930 392 L1028 392 L1028 541 L1028 630" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1028" cy="630" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M1078 511 L1078 630 L1149 630" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1149" cy="630" r="5" fill="#5027f1" fillOpacity="0.35"/><path d="M1106 142 L1106 311 L1067 311" fill="none" stroke="#5027f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1067" cy="311" r="5" fill="#5027f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#5027f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#5027f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#5027f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#5027f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#5027f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="93.6" rx="16.900000000000002"/><line x1="0" y1="130" x2="130" y2="130"/><circle cx="19.5" cy="23.4" r="6.5" fill="#5027f1" stroke="none"/><circle cx="37.699999999999996" cy="23.4" r="6.5"/><circle cx="55.9" cy="23.4" r="6.5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Set Up Focus Modes on macOS</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">FOCUS</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#5027f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#5027f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#5027f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#5027f1" opacity="0.35"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Use a GitHub Action">
+<defs>
+<linearGradient id="bg-a-howtouseagithubaction" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtouseagithubaction" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f1f127" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f1f127" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtouseagithubaction" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtouseagithubaction)"/><rect width="1200" height="630" fill="url(#glow-a-howtouseagithubaction)"/><rect width="1200" height="630" fill="url(#grid-a-howtouseagithubaction)"/>
+<path d="M995 368 L1192 368 L1200 368 L1200 368 L1200 381" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="381" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M632 453 L632 562 L632 630" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="632" cy="630" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M490 19 L505 19 L574 19 L634 19 L587 19" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="587" cy="19" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M914 174 L1100 174 L1100 187 L1144 187 L1144 306" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1144" cy="306" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M214 525 L202 525 L231 525 L231 512 L231 509" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="231" cy="509" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M380 516 L380 605 L380 630 L380 630 L550 630" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="550" cy="630" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M12 69 L12 171 L12 335 L12 428" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="12" cy="428" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M304 288 L304 369 L304 515 L304 551" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="304" cy="551" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M791 537 L791 536 L890 536" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="890" cy="536" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M184 577 L184 583 L287 583 L418 583 L418 630" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="418" cy="630" r="5" fill="#f1f127" fillOpacity="0.35"/><path d="M20 614 L20 630 L20 630 L221 630" fill="none" stroke="#f1f127" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="221" cy="630" r="5" fill="#f1f127" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f1f127"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f1f127"/>
+<rect x="86" y="60" width="10" height="10" fill="#f1f127"/>
+<rect x="104" y="78" width="6" height="6" fill="#f1f127" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f1f127" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M23.4 7.8 L0 65 L23.4 122.19999999999999"/><path d="M106.6 7.8 L130 65 L106.6 122.19999999999999"/><line x1="65" y1="2.6" x2="54.6" y2="127.39999999999999"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Use a GitHub Action</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">AUTOMATION</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f1f127">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f1f127" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f1f127" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f1f127" opacity="0.35"/>
+</svg>

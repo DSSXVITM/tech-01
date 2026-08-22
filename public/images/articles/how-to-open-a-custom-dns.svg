@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Open a Custom DNS">
+<defs>
+<linearGradient id="bg-a-howtoopenacustomdns" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoopenacustomdns" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#279df1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#279df1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoopenacustomdns" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoopenacustomdns)"/><rect width="1200" height="630" fill="url(#glow-a-howtoopenacustomdns)"/><rect width="1200" height="630" fill="url(#grid-a-howtoopenacustomdns)"/>
+<path d="M416 476 L591 476 L749 476" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="749" cy="476" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M728 356 L860 356 L843 356" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="843" cy="356" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M210 25 L210 0 L210 0 L210 116" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="210" cy="116" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M1119 464 L1119 626 L1119 591 L1200 591" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="591" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M220 10 L220 105 L176 105" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="176" cy="105" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M1174 194 L1200 194 L1200 386" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="386" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M740 69 L740 76 L893 76 L962 76" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="962" cy="76" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M518 591 L518 630 L672 630" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="672" cy="630" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M1081 419 L1069 419 L1069 498" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1069" cy="498" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M537 451 L580 451 L580 550 L767 550" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="767" cy="550" r="5" fill="#279df1" fillOpacity="0.35"/><path d="M660 504 L617 504 L646 504" fill="none" stroke="#279df1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="646" cy="504" r="5" fill="#279df1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#279df1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#279df1"/>
+<rect x="86" y="60" width="10" height="10" fill="#279df1"/>
+<rect x="104" y="78" width="6" height="6" fill="#279df1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#279df1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="11.7" fill="#279df1" stroke="none"/><line x1="65" y1="65" x2="0" y2="0"/><line x1="65" y1="65" x2="130" y2="0"/><line x1="65" y1="65" x2="130" y2="130"/><line x1="65" y1="65" x2="0" y2="130"/><circle cx="0" cy="0" r="7.15"/><circle cx="130" cy="0" r="7.15"/><circle cx="130" cy="130" r="7.15"/><circle cx="0" cy="130" r="7.15"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Open a Custom DNS</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">TROUBLESHOOTING</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#279df1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#279df1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#279df1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#279df1" opacity="0.35"/>
+</svg>

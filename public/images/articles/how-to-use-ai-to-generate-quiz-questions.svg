@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Use AI to Generate Quiz Questions">
+<defs>
+<linearGradient id="bg-a-howtouseaitogeneratequizquestions" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtouseaitogeneratequizquestions" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f12e27" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f12e27" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtouseaitogeneratequizquestions" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtouseaitogeneratequizquestions)"/><rect width="1200" height="630" fill="url(#glow-a-howtouseaitogeneratequizquestions)"/><rect width="1200" height="630" fill="url(#grid-a-howtouseaitogeneratequizquestions)"/>
+<path d="M642 389 L642 534 L642 584" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="642" cy="584" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M429 329 L429 309 L439 309 L604 309" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="604" cy="309" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M462 586 L462 630 L608 630 L576 630" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="576" cy="630" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M1016 255 L1016 445 L990 445" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="990" cy="445" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M666 148 L666 98 L666 286 L688 286" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="688" cy="286" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M986 512 L986 612 L986 630" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="986" cy="630" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M730 397 L762 397 L762 488 L762 630" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="762" cy="630" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M461 233 L461 364 L535 364 L535 487" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="535" cy="487" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M495 102 L648 102 L755 102 L854 102 L1033 102" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1033" cy="102" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M738 377 L836 377 L959 377 L1160 377 L1160 461" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1160" cy="461" r="5" fill="#f12e27" fillOpacity="0.35"/><path d="M654 46 L791 46 L791 197" fill="none" stroke="#f12e27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="791" cy="197" r="5" fill="#f12e27" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f12e27"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f12e27"/>
+<rect x="86" y="60" width="10" height="10" fill="#f12e27"/>
+<rect x="104" y="78" width="6" height="6" fill="#f12e27" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f12e27" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="16.900000000000002" fill="#f12e27" stroke="none"/><line x1="65" y1="65" x2="10.4" y2="18.200000000000003"/><circle cx="10.4" cy="18.200000000000003" r="9.100000000000001"/><line x1="65" y1="65" x2="117" y2="23.4"/><circle cx="117" cy="23.4" r="9.100000000000001"/><line x1="65" y1="65" x2="111.8" y2="109.2"/><circle cx="111.8" cy="109.2" r="9.100000000000001"/><line x1="65" y1="65" x2="18.200000000000003" y2="106.6"/><circle cx="18.200000000000003" cy="106.6" r="9.100000000000001"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Use AI to Generate Quiz</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Questions</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">QUIZ</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f12e27">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f12e27" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f12e27" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f12e27" opacity="0.35"/>
+</svg>

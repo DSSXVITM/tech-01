@@ -155,7 +155,7 @@ function hslToHex(h, s, l) {
 /** Per-article accent: category base hue shifted by the slug hash (±~22 deg). */
 function accentFor(category, slug) {
   const base = CATEGORY_HUE[category] ?? 232;
-  const shift = (hashString(slug) % 45) - 22;
+  const shift = (hashString(slug) % 80) - 40;
   const hsl = hslToHex(((base + shift + 360) % 360), 88, 55);
   return hsl;
 }

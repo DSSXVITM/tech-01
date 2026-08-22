@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Change the Mac Dock">
+<defs>
+<linearGradient id="bg-a-howtochangethemacdock" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtochangethemacdock" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27a0f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27a0f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtochangethemacdock" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtochangethemacdock)"/><rect width="1200" height="630" fill="url(#glow-a-howtochangethemacdock)"/><rect width="1200" height="630" fill="url(#grid-a-howtochangethemacdock)"/>
+<path d="M38 95 L38 78 L38 46 L38 250 L38 363" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="38" cy="363" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M691 108 L821 108 L821 224 L890 224 L890 215" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="890" cy="215" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M1 269 L9 269 L207 269 L207 235" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="207" cy="235" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M735 246 L783 246 L964 246" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="964" cy="246" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M419 351 L419 546 L552 546 L552 630" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="552" cy="630" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M590 56 L590 142 L590 126" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="590" cy="126" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M60 373 L60 487 L60 544 L254 544 L254 547" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="254" cy="547" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M581 201 L672 201 L625 201 L625 219" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="625" cy="219" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M174 205 L174 193 L163 193" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="163" cy="193" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M1037 595 L1037 630 L1037 630 L1037 630 L1061 630" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1061" cy="630" r="5" fill="#27a0f1" fillOpacity="0.35"/><path d="M403 573 L564 573 L564 621 L564 575 L564 585" fill="none" stroke="#27a0f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="564" cy="585" r="5" fill="#27a0f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27a0f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27a0f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#27a0f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#27a0f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27a0f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="93.6" rx="16.900000000000002"/><line x1="0" y1="130" x2="130" y2="130"/><circle cx="19.5" cy="23.4" r="6.5" fill="#27a0f1" stroke="none"/><circle cx="37.699999999999996" cy="23.4" r="6.5"/><circle cx="55.9" cy="23.4" r="6.5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Change the Mac Dock</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PERFORMANCE</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27a0f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27a0f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27a0f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27a0f1" opacity="0.35"/>
+</svg>

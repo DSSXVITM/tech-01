@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Pick the Right Power Supply for Your PC">
+<defs>
+<linearGradient id="bg-a-howtopicktherightpowersupplyforyourpc" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtopicktherightpowersupplyforyourpc" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f17827" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f17827" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtopicktherightpowersupplyforyourpc" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtopicktherightpowersupplyforyourpc)"/><rect width="1200" height="630" fill="url(#glow-a-howtopicktherightpowersupplyforyourpc)"/><rect width="1200" height="630" fill="url(#grid-a-howtopicktherightpowersupplyforyourpc)"/>
+<path d="M168 75 L168 234 L356 234 L356 186" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="356" cy="186" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M1186 129 L1200 129 L1200 212 L1200 375 L1200 375" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="375" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M517 581 L680 581 L680 534 L680 630 L680 630" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="680" cy="630" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M919 346 L919 322 L1032 322 L1032 492 L1032 630" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1032" cy="630" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M382 166 L474 166 L586 166 L586 354" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="586" cy="354" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M91 222 L221 222 L221 194 L191 194" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="191" cy="194" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M404 327 L566 327 L566 395" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="566" cy="395" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M993 579 L993 630 L1180 630" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1180" cy="630" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M311 64 L311 234 L311 365 L311 479 L311 448" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="311" cy="448" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M301 239 L301 290 L301 269 L301 438" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="301" cy="438" r="5" fill="#f17827" fillOpacity="0.35"/><path d="M804 486 L804 563 L881 563 L837 563" fill="none" stroke="#f17827" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="837" cy="563" r="5" fill="#f17827" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f17827"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f17827"/>
+<rect x="86" y="60" width="10" height="10" fill="#f17827"/>
+<rect x="104" y="78" width="6" height="6" fill="#f17827" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f17827" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><line x1="15.6" y1="0" x2="15.6" y2="15.6"/><line x1="15.6" y1="114.4" x2="15.6" y2="130"/><line x1="0" y1="15.6" x2="15.6" y2="15.6"/><line x1="114.4" y1="15.6" x2="130" y2="15.6"/><line x1="41.6" y1="0" x2="41.6" y2="15.6"/><line x1="41.6" y1="114.4" x2="41.6" y2="130"/><line x1="0" y1="41.6" x2="15.6" y2="41.6"/><line x1="114.4" y1="41.6" x2="130" y2="41.6"/><line x1="67.6" y1="0" x2="67.6" y2="15.6"/><line x1="67.6" y1="114.4" x2="67.6" y2="130"/><line x1="0" y1="67.6" x2="15.6" y2="67.6"/><line x1="114.4" y1="67.6" x2="130" y2="67.6"/><line x1="93.6" y1="0" x2="93.6" y2="15.6"/><line x1="93.6" y1="114.4" x2="93.6" y2="130"/><line x1="0" y1="93.6" x2="15.6" y2="93.6"/><line x1="114.4" y1="93.6" x2="130" y2="93.6"/><rect x="15.6" y="15.6" width="98.8" height="98.8" rx="10.4"/><rect x="39" y="39" width="52" height="52" rx="5.2"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Pick the Right Power Supply</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">for Your PC</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PSU</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f17827">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f17827" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f17827" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f17827" opacity="0.35"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Create a Portfolio Page With HTML and CSS">
+<defs>
+<linearGradient id="bg-a-howtocreateaportfoliopagewithhtmlandcss" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtocreateaportfoliopagewithhtmlandcss" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f14227" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f14227" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtocreateaportfoliopagewithhtmlandcss" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtocreateaportfoliopagewithhtmlandcss)"/><rect width="1200" height="630" fill="url(#glow-a-howtocreateaportfoliopagewithhtmlandcss)"/><rect width="1200" height="630" fill="url(#grid-a-howtocreateaportfoliopagewithhtmlandcss)"/>
+<path d="M452 531 L420 531 L463 531 L463 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="463" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M114 320 L114 339 L114 519" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="114" cy="519" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M387 557 L387 536 L387 496 L387 618 L412 618" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="412" cy="618" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M109 240 L114 240 L114 420 L114 617 L238 617" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="238" cy="617" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M535 619 L535 630 L535 630 L683 630 L700 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="700" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M308 580 L308 630 L423 630 L423 630 L401 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="401" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M727 354 L813 354 L1019 354 L1030 354 L1030 532" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1030" cy="532" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M768 117 L768 318 L888 318 L925 318" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="925" cy="318" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M471 390 L465 390 L466 390" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="466" cy="390" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M510 168 L502 168 L623 168 L723 168" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="723" cy="168" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M853 335 L886 335 L940 335 L1085 335 L1085 304" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1085" cy="304" r="5" fill="#f14227" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f14227"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f14227"/>
+<rect x="86" y="60" width="10" height="10" fill="#f14227"/>
+<rect x="104" y="78" width="6" height="6" fill="#f14227" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f14227" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M23.4 7.8 L0 65 L23.4 122.19999999999999"/><path d="M106.6 7.8 L130 65 L106.6 122.19999999999999"/><line x1="65" y1="2.6" x2="54.6" y2="127.39999999999999"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Create a Portfolio Page</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">With HTML and CSS</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">HTML</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f14227">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f14227" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f14227" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f14227" opacity="0.35"/>
+</svg>

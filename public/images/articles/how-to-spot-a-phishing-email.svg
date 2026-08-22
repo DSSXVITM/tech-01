@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Spot a Phishing Email">
+<defs>
+<linearGradient id="bg-a-howtospotaphishingemail" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtospotaphishingemail" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27ddf1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27ddf1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtospotaphishingemail" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtospotaphishingemail)"/><rect width="1200" height="630" fill="url(#glow-a-howtospotaphishingemail)"/><rect width="1200" height="630" fill="url(#grid-a-howtospotaphishingemail)"/>
+<path d="M643 560 L777 560 L777 594" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="777" cy="594" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M751 319 L794 319 L829 319 L829 282 L791 282" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="791" cy="282" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M384 516 L416 516 L496 516" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="496" cy="516" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M723 505 L723 605 L723 626 L773 626 L968 626" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="968" cy="626" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M657 570 L657 566 L657 630 L776 630" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="776" cy="630" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M842 599 L842 630 L914 630" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="914" cy="630" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M279 402 L442 402 L442 454" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="442" cy="454" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M56 452 L56 468 L56 521" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="56" cy="521" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M1109 537 L1200 537 L1200 544 L1200 630" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="630" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M344 443 L344 495 L344 466 L437 466 L507 466" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="507" cy="466" r="5" fill="#27ddf1" fillOpacity="0.35"/><path d="M357 542 L357 630 L357 630 L357 630 L428 630" fill="none" stroke="#27ddf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="428" cy="630" r="5" fill="#27ddf1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27ddf1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27ddf1"/>
+<rect x="86" y="60" width="10" height="10" fill="#27ddf1"/>
+<rect x="104" y="78" width="6" height="6" fill="#27ddf1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27ddf1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M65 0 L130 16.900000000000002 L122.19999999999999 85.8 Q101.4 117 65 130 Q28.6 117 7.8 85.8 L0 16.900000000000002 Z"/><path d="M36.400000000000006 65 L57.2 85.8 L96.2 41.6" strokeWidth="5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Spot a Phishing Email</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PHISHING</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27ddf1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27ddf1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27ddf1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27ddf1" opacity="0.35"/>
+</svg>

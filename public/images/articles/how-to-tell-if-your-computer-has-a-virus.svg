@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Tell if Your Computer Has a Virus">
+<defs>
+<linearGradient id="bg-a-howtotellifyourcomputerhasavirus" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtotellifyourcomputerhasavirus" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27b5f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27b5f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtotellifyourcomputerhasavirus" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtotellifyourcomputerhasavirus)"/><rect width="1200" height="630" fill="url(#glow-a-howtotellifyourcomputerhasavirus)"/><rect width="1200" height="630" fill="url(#grid-a-howtotellifyourcomputerhasavirus)"/>
+<path d="M208 552 L312 552 L312 558" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="312" cy="558" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M396 305 L351 305 L351 366 L351 349 L436 349" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="436" cy="349" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M443 260 L443 338 L462 338 L530 338 L634 338" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="634" cy="338" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M1026 468 L1007 468 L1007 496" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1007" cy="496" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M314 476 L314 630 L478 630" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="478" cy="630" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M1069 619 L1200 619 L1200 630 L1200 630" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="630" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M95 448 L95 462 L263 462 L395 462 L395 629" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="395" cy="629" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M47 249 L47 405 L35 405 L35 556 L35 600" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="35" cy="600" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M730 358 L730 406 L843 406" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="843" cy="406" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M644 23 L694 23 L702 23 L742 23 L742 0" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="742" cy="0" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M763 620 L950 620 L950 630 L966 630 L1131 630" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1131" cy="630" r="5" fill="#27b5f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27b5f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27b5f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#27b5f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#27b5f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27b5f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M65 0 L130 16.900000000000002 L122.19999999999999 85.8 Q101.4 117 65 130 Q28.6 117 7.8 85.8 L0 16.900000000000002 Z"/><path d="M36.400000000000006 65 L57.2 85.8 L96.2 41.6" strokeWidth="5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Tell if Your Computer Has a</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Virus</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">ANTIVIRUS</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27b5f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27b5f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27b5f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27b5f1" opacity="0.35"/>
+</svg>

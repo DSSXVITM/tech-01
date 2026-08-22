@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Use Spotlight Search Like a Pro">
+<defs>
+<linearGradient id="bg-a-howtousespotlightsearchlikeapro" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtousespotlightsearchlikeapro" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#276ef1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#276ef1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtousespotlightsearchlikeapro" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtousespotlightsearchlikeapro)"/><rect width="1200" height="630" fill="url(#glow-a-howtousespotlightsearchlikeapro)"/><rect width="1200" height="630" fill="url(#grid-a-howtousespotlightsearchlikeapro)"/>
+<text x="600" y="470" fontFamily="'Big Shoulders Display', sans-serif" fontSize="300" fontWeight="800" fill="#F2F3F7" opacity="0.05" text-anchor="middle">AI TECH</text>
+<rect x="0" y="624" width="1200" height="6" fill="#276ef1"/>
+<text x="86" y="116" fontFamily="IBM Plex Mono, monospace" fontSize="26" letterSpacing="10" fill="#276ef1">SPOTLIGHT</text>
+<text x="86" y="330" fontFamily="'Big Shoulders Display', sans-serif" fontSize="74" fontWeight="800" fill="#F2F3F7">How to Use Spotlight Search</text>
+<text x="86" y="408" fontFamily="'Big Shoulders Display', sans-serif" fontSize="74" fontWeight="800" fill="#F2F3F7">Like a Pro</text>
+<rect x="86" y="508" width="260" height="6" fill="#276ef1"/>
+<g transform="translate(966 96)" fill="none" stroke="#276ef1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="150" height="108" rx="19.5"/><line x1="0" y1="150" x2="150" y2="150"/><circle cx="22.5" cy="27" r="7.5" fill="#276ef1" stroke="none"/><circle cx="43.5" cy="27" r="7.5"/><circle cx="64.5" cy="27" r="7.5"/></g>
+<rect x="1096" y="504" width="18" height="110" fill="#276ef1" opacity="0.9"/>
+<rect x="1122" y="528" width="8" height="86" fill="#276ef1" opacity="0.45"/>
+<text x="86" y="580" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#8891A6">AI TECH MEDIA</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Hide the Mac Dock">
+<defs>
+<linearGradient id="bg-a-howtohidethemacdock" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtohidethemacdock" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#276bf1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#276bf1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtohidethemacdock" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtohidethemacdock)"/><rect width="1200" height="630" fill="url(#glow-a-howtohidethemacdock)"/><rect width="1200" height="630" fill="url(#grid-a-howtohidethemacdock)"/>
+<path d="M224 482 L224 630 L224 630" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="224" cy="630" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M1165 556 L1165 630 L1200 630" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="630" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M1123 339 L1200 339 L1200 339 L1200 339" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="339" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M30 297 L216 297 L208 297" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="208" cy="297" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M224 229 L224 294 L271 294 L329 294 L292 294" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="292" cy="294" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M238 412 L308 412 L308 598 L489 598" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="489" cy="598" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M139 234 L183 234 L389 234 L532 234 L691 234" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="691" cy="234" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M1186 608 L1186 630 L1200 630 L1200 630" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="630" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M169 342 L186 342 L186 417" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="186" cy="417" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M956 15 L956 0 L956 98 L1076 98 L1076 91" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1076" cy="91" r="5" fill="#276bf1" fillOpacity="0.35"/><path d="M390 430 L390 403 L390 450 L390 576 L390 630" fill="none" stroke="#276bf1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="390" cy="630" r="5" fill="#276bf1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#276bf1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#276bf1"/>
+<rect x="86" y="60" width="10" height="10" fill="#276bf1"/>
+<rect x="104" y="78" width="6" height="6" fill="#276bf1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#276bf1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="93.6" rx="16.900000000000002"/><line x1="0" y1="130" x2="130" y2="130"/><circle cx="19.5" cy="23.4" r="6.5" fill="#276bf1" stroke="none"/><circle cx="37.699999999999996" cy="23.4" r="6.5"/><circle cx="55.9" cy="23.4" r="6.5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Hide the Mac Dock</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">CUSTOMIZATION</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#276bf1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#276bf1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#276bf1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#276bf1" opacity="0.35"/>
+</svg>

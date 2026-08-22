@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Configure Two-Factor Authentication">
+<defs>
+<linearGradient id="bg-a-howtoconfiguretwofactorauthentication" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoconfiguretwofactorauthentication" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27f12e" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27f12e" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoconfiguretwofactorauthentication" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoconfiguretwofactorauthentication)"/><rect width="1200" height="630" fill="url(#glow-a-howtoconfiguretwofactorauthentication)"/><rect width="1200" height="630" fill="url(#grid-a-howtoconfiguretwofactorauthentication)"/>
+<path d="M742 238 L742 339 L748 339 L748 465" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="748" cy="465" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M334 491 L364 491 L364 630 L364 630" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="364" cy="630" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M827 540 L963 540 L963 517" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="963" cy="517" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M768 388 L768 390 L768 370 L768 541" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="768" cy="541" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M931 238 L931 303 L931 478" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="931" cy="478" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M149 167 L234 167 L234 216" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="234" cy="216" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M882 571 L1086 571 L1103 571 L1103 630" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1103" cy="630" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M784 174 L784 135 L874 135 L874 97" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="874" cy="97" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M368 595 L517 595 L517 630 L641 630 L801 630" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="801" cy="630" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M393 224 L432 224 L432 370 L432 507" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="432" cy="507" r="5" fill="#27f12e" fillOpacity="0.35"/><path d="M824 603 L881 603 L881 575" fill="none" stroke="#27f12e" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="881" cy="575" r="5" fill="#27f12e" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27f12e"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27f12e"/>
+<rect x="86" y="60" width="10" height="10" fill="#27f12e"/>
+<rect x="104" y="78" width="6" height="6" fill="#27f12e" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27f12e" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M65 0 L130 16.900000000000002 L122.19999999999999 85.8 Q101.4 117 65 130 Q28.6 117 7.8 85.8 L0 16.900000000000002 Z"/><path d="M36.400000000000006 65 L57.2 85.8 L96.2 41.6" strokeWidth="5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Configure Two-Factor</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Authentication</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PRIVACY</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27f12e">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27f12e" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27f12e" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27f12e" opacity="0.35"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Open a Prompt Library">
+<defs>
+<linearGradient id="bg-a-howtoopenapromptlibrary" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoopenapromptlibrary" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f12753" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f12753" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoopenapromptlibrary" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoopenapromptlibrary)"/><rect width="1200" height="630" fill="url(#glow-a-howtoopenapromptlibrary)"/><rect width="1200" height="630" fill="url(#grid-a-howtoopenapromptlibrary)"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f12753"/>
+<rect x="0" y="624" width="1200" height="6" fill="#f12753"/>
+<text x="600" y="118" fontFamily="IBM Plex Mono, monospace" fontSize="26" letterSpacing="12" fill="#f12753" text-anchor="middle">PRODUCTIVITY</text>
+<circle cx="600" cy="290" r="196" fill="none" stroke="#f12753" strokeOpacity="0.12" strokeWidth="2"/>
+<g transform="translate(450 140)" fill="none" stroke="#f12753" strokeWidth="11" strokeLinecap="round" strokeLinejoin="round"><circle cx="150" cy="150" r="39" fill="#f12753" stroke="none"/><line x1="150" y1="150" x2="24" y2="42.00000000000001"/><circle cx="24" cy="42.00000000000001" r="21.000000000000004"/><line x1="150" y1="150" x2="270" y2="54"/><circle cx="270" cy="54" r="21.000000000000004"/><line x1="150" y1="150" x2="258" y2="252"/><circle cx="258" cy="252" r="21.000000000000004"/><line x1="150" y1="150" x2="42.00000000000001" y2="245.99999999999997"/><circle cx="42.00000000000001" cy="245.99999999999997" r="21.000000000000004"/></g>
+<text x="600" y="506" text-anchor="middle" fontFamily="'Big Shoulders Display', sans-serif" fontSize="54" fontWeight="800" fill="#F2F3F7">How to Open a Prompt Library</text>
+<text x="600" y="612" fontFamily="IBM Plex Mono, monospace" fontSize="18" letterSpacing="8" fill="#8891A6" text-anchor="middle">AI TECH MEDIA</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Fix a PC That Won't Boot After an Upgrade">
+<defs>
+<linearGradient id="bg-a-howtofixapcthatwontbootafteranupgrade" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtofixapcthatwontbootafteranupgrade" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f13527" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f13527" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtofixapcthatwontbootafteranupgrade" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtofixapcthatwontbootafteranupgrade)"/><rect width="1200" height="630" fill="url(#glow-a-howtofixapcthatwontbootafteranupgrade)"/><rect width="1200" height="630" fill="url(#grid-a-howtofixapcthatwontbootafteranupgrade)"/>
+<path d="M1051 421 L1051 522 L1051 595" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1051" cy="595" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M407 41 L407 120 L373 120 L373 170" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="373" cy="170" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M320 605 L320 630 L453 630 L584 630 L584 630" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="584" cy="630" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M337 472 L348 472 L348 424 L348 610 L392 610" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="392" cy="610" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M171 513 L124 513 L124 630 L124 630" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="124" cy="630" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M1049 242 L1049 215 L1003 215 L1108 215 L1108 418" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1108" cy="418" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M5 234 L120 234 L120 327" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="120" cy="327" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M303 24 L303 204 L303 310 L303 261" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="303" cy="261" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M602 534 L602 558 L602 630 L584 630" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="584" cy="630" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M481 4 L461 4 L517 4 L628 4" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="628" cy="4" r="5" fill="#f13527" fillOpacity="0.35"/><path d="M992 31 L992 25 L1139 25 L1175 25" fill="none" stroke="#f13527" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1175" cy="25" r="5" fill="#f13527" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f13527"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f13527"/>
+<rect x="86" y="60" width="10" height="10" fill="#f13527"/>
+<rect x="104" y="78" width="6" height="6" fill="#f13527" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f13527" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><line x1="15.6" y1="0" x2="15.6" y2="15.6"/><line x1="15.6" y1="114.4" x2="15.6" y2="130"/><line x1="0" y1="15.6" x2="15.6" y2="15.6"/><line x1="114.4" y1="15.6" x2="130" y2="15.6"/><line x1="41.6" y1="0" x2="41.6" y2="15.6"/><line x1="41.6" y1="114.4" x2="41.6" y2="130"/><line x1="0" y1="41.6" x2="15.6" y2="41.6"/><line x1="114.4" y1="41.6" x2="130" y2="41.6"/><line x1="67.6" y1="0" x2="67.6" y2="15.6"/><line x1="67.6" y1="114.4" x2="67.6" y2="130"/><line x1="0" y1="67.6" x2="15.6" y2="67.6"/><line x1="114.4" y1="67.6" x2="130" y2="67.6"/><line x1="93.6" y1="0" x2="93.6" y2="15.6"/><line x1="93.6" y1="114.4" x2="93.6" y2="130"/><line x1="0" y1="93.6" x2="15.6" y2="93.6"/><line x1="114.4" y1="93.6" x2="130" y2="93.6"/><rect x="15.6" y="15.6" width="98.8" height="98.8" rx="10.4"/><rect x="39" y="39" width="52" height="52" rx="5.2"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Fix a PC That Won't Boot</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">After an Upgrade</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">TROUBLESHOOTING</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f13527">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f13527" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f13527" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f13527" opacity="0.35"/>
+</svg>

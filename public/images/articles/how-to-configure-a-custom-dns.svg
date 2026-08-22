@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Configure a Custom DNS">
+<defs>
+<linearGradient id="bg-a-howtoconfigureacustomdns" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoconfigureacustomdns" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27f1cc" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27f1cc" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoconfigureacustomdns" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoconfigureacustomdns)"/><rect width="1200" height="630" fill="url(#glow-a-howtoconfigureacustomdns)"/><rect width="1200" height="630" fill="url(#grid-a-howtoconfigureacustomdns)"/>
+<path d="M950 99 L1070 99 L1200 99 L1200 172 L1200 172" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="172" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M843 560 L843 536 L843 497 L1013 497 L1159 497" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1159" cy="497" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M1192 65 L1200 65 L1200 65" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="65" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M339 293 L418 293 L403 293 L493 293" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="493" cy="293" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M1131 465 L1200 465 L1200 465" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="465" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M237 299 L241 299 L265 299 L265 281 L265 350" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="265" cy="350" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M1066 473 L1066 630 L1192 630" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1192" cy="630" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M254 311 L301 311 L301 483 L383 483 L383 557" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="383" cy="557" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M378 485 L378 619 L390 619" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="390" cy="619" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M427 70 L564 70 L564 197" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="564" cy="197" r="5" fill="#27f1cc" fillOpacity="0.35"/><path d="M40 474 L40 472 L40 489 L40 453" fill="none" stroke="#27f1cc" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="40" cy="453" r="5" fill="#27f1cc" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27f1cc"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27f1cc"/>
+<rect x="86" y="60" width="10" height="10" fill="#27f1cc"/>
+<rect x="104" y="78" width="6" height="6" fill="#27f1cc" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27f1cc" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="11.7" fill="#27f1cc" stroke="none"/><line x1="65" y1="65" x2="0" y2="0"/><line x1="65" y1="65" x2="130" y2="0"/><line x1="65" y1="65" x2="130" y2="130"/><line x1="65" y1="65" x2="0" y2="130"/><circle cx="0" cy="0" r="7.15"/><circle cx="130" cy="0" r="7.15"/><circle cx="130" cy="130" r="7.15"/><circle cx="0" cy="130" r="7.15"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Configure a Custom DNS</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">TROUBLESHOOTING</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27f1cc">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27f1cc" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27f1cc" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27f1cc" opacity="0.35"/>
+</svg>

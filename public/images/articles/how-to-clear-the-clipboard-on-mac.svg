@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Clear the Clipboard on Mac">
+<defs>
+<linearGradient id="bg-a-howtocleartheclipboardonmac" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtocleartheclipboardonmac" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#4227f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#4227f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtocleartheclipboardonmac" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtocleartheclipboardonmac)"/><rect width="1200" height="630" fill="url(#glow-a-howtocleartheclipboardonmac)"/><rect width="1200" height="630" fill="url(#grid-a-howtocleartheclipboardonmac)"/>
+<path d="M107 288 L269 288 L242 288" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="242" cy="288" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M939 122 L939 91 L903 91 L903 217" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="903" cy="217" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M44 89 L241 89 L253 89 L253 223 L253 281" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="253" cy="281" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M624 13 L807 13 L998 13 L998 21" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="998" cy="21" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M30 68 L30 199 L30 310 L19 310 L55 310" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="55" cy="310" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M865 528 L1010 528 L1010 491 L1087 491 L1087 511" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1087" cy="511" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M172 306 L172 390 L195 390 L195 482 L391 482" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="391" cy="482" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M623 24 L649 24 L649 120" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="649" cy="120" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M204 227 L330 227 L466 227" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="466" cy="227" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M404 507 L404 611 L537 611" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="537" cy="611" r="5" fill="#4227f1" fillOpacity="0.35"/><path d="M77 621 L56 621 L199 621 L199 628" fill="none" stroke="#4227f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="199" cy="628" r="5" fill="#4227f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#4227f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#4227f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#4227f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#4227f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#4227f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="93.6" rx="16.900000000000002"/><line x1="0" y1="130" x2="130" y2="130"/><circle cx="19.5" cy="23.4" r="6.5" fill="#4227f1" stroke="none"/><circle cx="37.699999999999996" cy="23.4" r="6.5"/><circle cx="55.9" cy="23.4" r="6.5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Clear the Clipboard on Mac</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">CLIPBOARD</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#4227f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#4227f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#4227f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#4227f1" opacity="0.35"/>
+</svg>

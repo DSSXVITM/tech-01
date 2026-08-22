@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Brainstorm Ideas with AI Help">
+<defs>
+<linearGradient id="bg-a-howtobrainstormideaswithaihelp" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtobrainstormideaswithaihelp" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f13b27" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f13b27" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtobrainstormideaswithaihelp" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtobrainstormideaswithaihelp)"/><rect width="1200" height="630" fill="url(#glow-a-howtobrainstormideaswithaihelp)"/><rect width="1200" height="630" fill="url(#grid-a-howtobrainstormideaswithaihelp)"/>
+<path d="M336 463 L336 572 L444 572 L444 630" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="444" cy="630" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M391 304 L391 304 L391 477" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="391" cy="477" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M822 114 L822 217 L822 199 L822 172 L822 226" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="822" cy="226" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M1034 207 L1034 414 L1034 580 L1034 598" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1034" cy="598" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M745 331 L927 331 L966 331 L952 331" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="952" cy="331" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M1041 32 L1112 32 L1112 49" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1112" cy="49" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M638 182 L638 233 L798 233" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="798" cy="233" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M270 116 L270 209 L294 209" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="294" cy="209" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M363 168 L558 168 L558 206 L558 387 L629 387" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="629" cy="387" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M860 215 L825 215 L960 215 L908 215 L908 382" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="908" cy="382" r="5" fill="#f13b27" fillOpacity="0.35"/><path d="M971 150 L921 150 L921 227 L958 227 L914 227" fill="none" stroke="#f13b27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="914" cy="227" r="5" fill="#f13b27" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f13b27"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f13b27"/>
+<rect x="86" y="60" width="10" height="10" fill="#f13b27"/>
+<rect x="104" y="78" width="6" height="6" fill="#f13b27" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f13b27" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><circle cx="65" cy="65" r="16.900000000000002" fill="#f13b27" stroke="none"/><line x1="65" y1="65" x2="10.4" y2="18.200000000000003"/><circle cx="10.4" cy="18.200000000000003" r="9.100000000000001"/><line x1="65" y1="65" x2="117" y2="23.4"/><circle cx="117" cy="23.4" r="9.100000000000001"/><line x1="65" y1="65" x2="111.8" y2="109.2"/><circle cx="111.8" cy="109.2" r="9.100000000000001"/><line x1="65" y1="65" x2="18.200000000000003" y2="106.6"/><circle cx="18.200000000000003" cy="106.6" r="9.100000000000001"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Brainstorm Ideas with AI</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Help</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">BRAINSTORM</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f13b27">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f13b27" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f13b27" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f13b27" opacity="0.35"/>
+</svg>

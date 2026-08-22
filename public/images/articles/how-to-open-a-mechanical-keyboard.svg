@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Open a Mechanical Keyboard">
+<defs>
+<linearGradient id="bg-a-howtoopenamechanicalkeyboard" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoopenamechanicalkeyboard" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f14227" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f14227" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoopenamechanicalkeyboard" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoopenamechanicalkeyboard)"/><rect width="1200" height="630" fill="url(#glow-a-howtoopenamechanicalkeyboard)"/><rect width="1200" height="630" fill="url(#grid-a-howtoopenamechanicalkeyboard)"/>
+<path d="M414 538 L389 538 L389 592 L547 592" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="547" cy="592" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M163 409 L163 431 L337 431 L337 612" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="337" cy="612" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M295 598 L295 630 L295 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="295" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M1015 524 L1015 630 L1200 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M255 272 L255 419 L255 368" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="255" cy="368" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M1028 490 L1057 490 L1057 529 L1057 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1057" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M208 32 L233 32 L268 32 L268 159 L301 159" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="301" cy="159" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M377 500 L423 500 L383 500 L341 500 L362 500" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="362" cy="500" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M715 465 L715 567 L715 604 L715 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="715" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M1157 125 L1200 125 L1200 257 L1200 213 L1200 213" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="213" r="5" fill="#f14227" fillOpacity="0.35"/><path d="M755 546 L761 546 L761 630 L761 630 L761 630" fill="none" stroke="#f14227" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="761" cy="630" r="5" fill="#f14227" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f14227"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f14227"/>
+<rect x="86" y="60" width="10" height="10" fill="#f14227"/>
+<rect x="104" y="78" width="6" height="6" fill="#f14227" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f14227" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><line x1="15.6" y1="0" x2="15.6" y2="15.6"/><line x1="15.6" y1="114.4" x2="15.6" y2="130"/><line x1="0" y1="15.6" x2="15.6" y2="15.6"/><line x1="114.4" y1="15.6" x2="130" y2="15.6"/><line x1="41.6" y1="0" x2="41.6" y2="15.6"/><line x1="41.6" y1="114.4" x2="41.6" y2="130"/><line x1="0" y1="41.6" x2="15.6" y2="41.6"/><line x1="114.4" y1="41.6" x2="130" y2="41.6"/><line x1="67.6" y1="0" x2="67.6" y2="15.6"/><line x1="67.6" y1="114.4" x2="67.6" y2="130"/><line x1="0" y1="67.6" x2="15.6" y2="67.6"/><line x1="114.4" y1="67.6" x2="130" y2="67.6"/><line x1="93.6" y1="0" x2="93.6" y2="15.6"/><line x1="93.6" y1="114.4" x2="93.6" y2="130"/><line x1="0" y1="93.6" x2="15.6" y2="93.6"/><line x1="114.4" y1="93.6" x2="130" y2="93.6"/><rect x="15.6" y="15.6" width="98.8" height="98.8" rx="10.4"/><rect x="39" y="39" width="52" height="52" rx="5.2"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Open a Mechanical Keyboard</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">BUYERS-GUIDE</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f14227">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f14227" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f14227" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f14227" opacity="0.35"/>
+</svg>

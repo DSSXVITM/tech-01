@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Turn On the Start Menu">
+<defs>
+<linearGradient id="bg-a-howtoturnonthestartmenu" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoturnonthestartmenu" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#2742f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#2742f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoturnonthestartmenu" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoturnonthestartmenu)"/><rect width="1200" height="630" fill="url(#glow-a-howtoturnonthestartmenu)"/><rect width="1200" height="630" fill="url(#grid-a-howtoturnonthestartmenu)"/>
+<path d="M76 263 L83 263 L83 406 L57 406 L215 406" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="215" cy="406" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M760 132 L751 132 L796 132 L860 132" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="860" cy="132" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M1070 526 L1070 480 L1070 517 L1200 517 L1200 517" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="517" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M797 623 L1002 623 L1127 623" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1127" cy="623" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M158 522 L286 522 L243 522" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="243" cy="522" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M581 57 L597 57 L597 153" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="597" cy="153" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M826 612 L1006 612 L1006 630" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1006" cy="630" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M433 58 L433 204 L433 363 L481 363 L481 486" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="481" cy="486" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M790 416 L790 452 L790 402 L790 462" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="790" cy="462" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M926 383 L907 383 L1107 383 L1107 485 L1107 475" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1107" cy="475" r="5" fill="#2742f1" fillOpacity="0.35"/><path d="M502 338 L502 332 L502 450 L577 450" fill="none" stroke="#2742f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="577" cy="450" r="5" fill="#2742f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#2742f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#2742f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#2742f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#2742f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#2742f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="65" height="65" rx="10.4"/><rect x="72.80000000000001" y="0" width="65" height="65" rx="10.4"/><rect x="0" y="72.80000000000001" width="65" height="65" rx="10.4"/><rect x="72.80000000000001" y="72.80000000000001" width="65" height="65" rx="10.4"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Turn On the Start Menu</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">PERFORMANCE</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#2742f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#2742f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#2742f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#2742f1" opacity="0.35"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Install Software Safely From Official Sources">
+<defs>
+<linearGradient id="bg-a-howtoinstallsoftwaresafelyfromofficialsources" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoinstallsoftwaresafelyfromofficialsources" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#b527f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#b527f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoinstallsoftwaresafelyfromofficialsources" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoinstallsoftwaresafelyfromofficialsources)"/><rect width="1200" height="630" fill="url(#glow-a-howtoinstallsoftwaresafelyfromofficialsources)"/><rect width="1200" height="630" fill="url(#grid-a-howtoinstallsoftwaresafelyfromofficialsources)"/>
+<path d="M1156 107 L1200 107 L1200 107" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1200" cy="107" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M414 307 L555 307 L555 301 L555 474 L557 474" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="557" cy="474" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M878 439 L1072 439 L1072 519 L1168 519 L1168 630" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1168" cy="630" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M605 426 L605 471 L641 471 L641 431 L800 431" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="800" cy="431" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M509 37 L509 206 L509 324" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="509" cy="324" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M49 465 L119 465 L119 618 L280 618 L280 596" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="280" cy="596" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M847 340 L849 340 L849 383 L841 383" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="841" cy="383" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M296 110 L362 110 L362 72 L362 145" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="362" cy="145" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M951 348 L951 423 L1155 423 L1155 444" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="1155" cy="444" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M444 513 L444 630 L444 630 L625 630 L765 630" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="765" cy="630" r="5" fill="#b527f1" fillOpacity="0.35"/><path d="M546 524 L608 524 L645 524" fill="none" stroke="#b527f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="645" cy="524" r="5" fill="#b527f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#b527f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#b527f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#b527f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#b527f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#b527f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><rect x="0" y="0" width="130" height="91" rx="13"/><line x1="0" y1="26" x2="130" y2="26"/><rect x="18.200000000000003" y="59.800000000000004" width="93.6" height="57.2" rx="10.4" opacity="0.55"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Install Software Safely</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">From Official Sources</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">INSTALL</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#b527f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#b527f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#b527f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#b527f1" opacity="0.35"/>
+</svg>

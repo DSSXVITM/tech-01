@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Check Your GPU Temperature">
+<defs>
+<linearGradient id="bg-a-howtocheckyourgputemperature" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtocheckyourgputemperature" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#f1bb27" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#f1bb27" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtocheckyourgputemperature" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtocheckyourgputemperature)"/><rect width="1200" height="630" fill="url(#glow-a-howtocheckyourgputemperature)"/><rect width="1200" height="630" fill="url(#grid-a-howtocheckyourgputemperature)"/>
+<path d="M611 309 L584 309 L584 336" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="584" cy="336" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M673 436 L673 527 L662 527" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="662" cy="527" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M826 329 L826 351 L826 447" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="826" cy="447" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M181 74 L181 153 L181 155 L327 155" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="327" cy="155" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M238 469 L410 469 L410 606 L479 606" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="479" cy="606" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M638 259 L781 259 L809 259 L809 381" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="809" cy="381" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M80 605 L278 605 L436 605 L436 579" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="436" cy="579" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M531 129 L555 129 L555 329" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="555" cy="329" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M9 297 L9 463 L28 463 L28 578" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="28" cy="578" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M130 169 L130 337 L130 345 L130 418 L308 418" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="308" cy="418" r="5" fill="#f1bb27" fillOpacity="0.35"/><path d="M231 319 L355 319 L355 323 L432 323 L432 447" fill="none" stroke="#f1bb27" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="432" cy="447" r="5" fill="#f1bb27" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#f1bb27"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#f1bb27"/>
+<rect x="86" y="60" width="10" height="10" fill="#f1bb27"/>
+<rect x="104" y="78" width="6" height="6" fill="#f1bb27" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#f1bb27" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><line x1="15.6" y1="0" x2="15.6" y2="15.6"/><line x1="15.6" y1="114.4" x2="15.6" y2="130"/><line x1="0" y1="15.6" x2="15.6" y2="15.6"/><line x1="114.4" y1="15.6" x2="130" y2="15.6"/><line x1="41.6" y1="0" x2="41.6" y2="15.6"/><line x1="41.6" y1="114.4" x2="41.6" y2="130"/><line x1="0" y1="41.6" x2="15.6" y2="41.6"/><line x1="114.4" y1="41.6" x2="130" y2="41.6"/><line x1="67.6" y1="0" x2="67.6" y2="15.6"/><line x1="67.6" y1="114.4" x2="67.6" y2="130"/><line x1="0" y1="67.6" x2="15.6" y2="67.6"/><line x1="114.4" y1="67.6" x2="130" y2="67.6"/><line x1="93.6" y1="0" x2="93.6" y2="15.6"/><line x1="93.6" y1="114.4" x2="93.6" y2="130"/><line x1="0" y1="93.6" x2="15.6" y2="93.6"/><line x1="114.4" y1="93.6" x2="130" y2="93.6"/><rect x="15.6" y="15.6" width="98.8" height="98.8" rx="10.4"/><rect x="39" y="39" width="52" height="52" rx="5.2"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Check Your GPU Temperature</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">GPU</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#f1bb27">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#f1bb27" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#f1bb27" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#f1bb27" opacity="0.35"/>
+</svg>

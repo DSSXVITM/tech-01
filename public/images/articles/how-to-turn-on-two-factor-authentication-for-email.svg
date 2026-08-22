@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="How to Turn On Two-Factor Authentication for Email">
+<defs>
+<linearGradient id="bg-a-howtoturnontwofactorauthenticationforemail" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stopColor="#0D0E16"/>
+<stop offset="100%" stopColor="#1B1E31"/>
+</linearGradient>
+<radialGradient id="glow-a-howtoturnontwofactorauthenticationforemail" cx="72%" cy="18%" r="85%">
+<stop offset="0%" stopColor="#27b5f1" stopOpacity="0.34"/>
+<stop offset="100%" stopColor="#27b5f1" stopOpacity="0"/>
+</radialGradient>
+<pattern id="grid-a-howtoturnontwofactorauthenticationforemail" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#8891A6" strokeOpacity="0.1" strokeWidth="1"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#bg-a-howtoturnontwofactorauthenticationforemail)"/><rect width="1200" height="630" fill="url(#glow-a-howtoturnontwofactorauthenticationforemail)"/><rect width="1200" height="630" fill="url(#grid-a-howtoturnontwofactorauthenticationforemail)"/>
+<path d="M536 546 L536 630 L660 630 L717 630 L717 630" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="717" cy="630" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M433 280 L634 280 L634 274" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="634" cy="274" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M116 116 L311 116 L438 116 L543 116 L543 152" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="543" cy="152" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M131 428 L252 428 L252 598" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="252" cy="598" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M205 465 L207 465 L207 438 L207 485 L207 473" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="207" cy="473" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M561 235 L618 235 L793 235 L793 296" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="793" cy="296" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M683 144 L683 167 L683 210 L676 210 L882 210" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="882" cy="210" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M878 297 L962 297 L942 297" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="942" cy="297" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M300 300 L476 300 L476 393 L476 468 L530 468" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="530" cy="468" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M748 32 L748 69 L757 69 L869 69 L869 226" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="869" cy="226" r="5" fill="#27b5f1" fillOpacity="0.35"/><path d="M663 111 L663 216 L733 216 L733 242 L845 242" fill="none" stroke="#27b5f1" strokeOpacity="0.16" strokeWidth="2"/>
+<circle cx="845" cy="242" r="5" fill="#27b5f1" fillOpacity="0.35"/>
+<rect x="0" y="0" width="1200" height="6" fill="#27b5f1"/>
+<text x="86" y="142" fontFamily="'Big Shoulders Display', sans-serif" fontSize="92" fontWeight="800" fill="#F2F3F7" opacity="0.92">AI TECH</text>
+<rect x="86" y="166" width="120" height="5" fill="#27b5f1"/>
+<rect x="86" y="60" width="10" height="10" fill="#27b5f1"/>
+<rect x="104" y="78" width="6" height="6" fill="#27b5f1" opacity="0.5"/>
+<g transform="translate(1030 260)" fill="none" stroke="#27b5f1" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d="M65 0 L130 16.900000000000002 L122.19999999999999 85.8 Q101.4 117 65 130 Q28.6 117 7.8 85.8 L0 16.900000000000002 Z"/><path d="M36.400000000000006 65 L57.2 85.8 L96.2 41.6" strokeWidth="5"/></g>
+<text x="86" y="360" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">How to Turn On Two-Factor</text>
+<text x="86" y="429" fontFamily="'Big Shoulders Display', sans-serif" fontSize="64" fontWeight="800" fill="#F2F3F7">Authentication for Email</text>
+<text x="86" y="566" fontFamily="IBM Plex Mono, monospace" fontSize="30" letterSpacing="10" fill="#8891A6">2FA</text>
+<text x="86" y="470" fontFamily="IBM Plex Mono, monospace" fontSize="20" letterSpacing="6" fill="#27b5f1">AI TECH MEDIA</text>
+<rect x="1096" y="460" width="18" height="110" fill="#27b5f1" opacity="0.9"/>
+<rect x="1122" y="484" width="8" height="86" fill="#27b5f1" opacity="0.45"/>
+<rect x="86" y="594" width="1028" height="2" fill="#27b5f1" opacity="0.35"/>
+</svg>
