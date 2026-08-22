@@ -25,12 +25,18 @@
 	// D1 database (Phase 2). Works locally out of the box with the
 	// placeholder id. Before REMOTE deploy, replace it with the real id:
 	//   npx wrangler d1 create aitech-db   (copy database_id from the output)
-	"d1_databases": [
-		{
-			"binding": "DB",
-			"database_name": "aitech-db",
-			"database_id": "7095fb2e-cb5f-48c7-99f8-73c2730e2167",
-			"migrations_dir": "db/migrations"
-		}
-	]
-}
+ 	"d1_databases": [
+ 		{
+ 			"binding": "DB",
+ 			"database_name": "aitech-db",
+ 			"database_id": "7095fb2e-cb5f-48c7-99f8-73c2730e2167",
+ 			"migrations_dir": "db/migrations"
+ 		}
+ 	],
+ 	"routes": [
+ 		{
+ 			"pattern": "ai-tech.fit/*",
+ 			"zone_name": "ai-tech.fit"
+ 		}
+ 	]
+ }
