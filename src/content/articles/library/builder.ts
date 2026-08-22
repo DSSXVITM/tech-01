@@ -1,15 +1,15 @@
-import { existsSync } from "node:fs";
-import { join } from "node:path";
 import type { Article, CategorySlug, ContentBlock, Difficulty } from "../../types";
 import { coverCredits } from "./credits";
+import { COVER_SLUGS } from "./covers-manifest";
 
-const COVER_DIR = join(process.cwd(), "public", "images", "articles");
 const COVER_BASE_URL = (
   process.env.NEXT_PUBLIC_COVER_BASE_URL ||
   "https://cdn.jsdelivr.net/gh/DSSXVITM/tech-01@main"
 ).replace(/\/+$/, "");
 function coverSrc(slug: string): string | undefined {
-  if (!existsSync(join(COVER_DIR, `${slug}.jpg`))) return undefined;
+  // Uses a precomputed manifest (not existsSync) so cover detection works at
+  // request time too — Cloudflare Workers have no public/ filesystem.
+  if (!COVER_SLUGS.has(slug)) return undefined;
   return `${COVER_BASE_URL}/images/articles/${slug}.jpg`;
 }
 

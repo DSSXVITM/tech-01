@@ -26,6 +26,10 @@ import { CircuitDivider } from "@/components/circuit-divider";
 import { CommentsSection } from "@/components/comments-section";
 import { SaveButton } from "@/components/save-button";
 
+// Render on demand (no SSG prerender of the full library). This keeps the
+// build fast; covers still work via the bundled COVER_SLUGS manifest.
+export const dynamic = "force-dynamic";
+
 interface Props {
   params: Promise<{ category: string; slug: string }>;
 }
