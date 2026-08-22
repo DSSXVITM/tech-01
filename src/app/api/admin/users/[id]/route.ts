@@ -67,5 +67,16 @@ export async function PATCH(request: Request) {
     return json({ ok: true });
   }
 
+  if (action === "delete") {
+    if (target.id === admin.id) return json({ error: "You cannot delete your own account." }, 422);
+    if (target.role === "admin") {
+      const row = await db.prepare("SELECT COUNT(*) AS count FROM users WHERE role = 'admin'").first<{ count: number }>();
+      const adminCount = row?.count ?? 0;
+      if (adminCount <= 1) return json({ error: "Cannot delete the last admin account." }, 422);
+    }
+    await db.prepare("DELETE FROM users WHERE id = ?").bind(id).run();
+    return json({ ok: true, deleted: id });
+  }
+
   return json({ error: "Unknown action." }, 422);
 }

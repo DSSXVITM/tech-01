@@ -52,6 +52,11 @@ export function UserActions({
     await run("password", { password });
   }
 
+  async function deleteUser() {
+    if (!window.confirm(`Delete this user? This cannot be undone.`)) return;
+    await run("delete");
+  }
+
   const inputCls =
     "w-full rounded-md border border-line bg-surface px-2.5 py-1.5 font-display text-[12px] text-fg outline-none focus:border-signal/60";
 
@@ -88,11 +93,21 @@ export function UserActions({
 
         <button
           type="button"
-          disabled={busy}
+          disabled={busy || isSelf}
           onClick={() => setShowPassword((s) => !s)}
           className="rounded-md border border-line px-2.5 py-1.5 font-display text-[11px] uppercase tracking-wider text-muted transition-colors hover:text-fg"
         >
           {showPassword ? "Cancel" : "Set password"}
+        </button>
+
+        <button
+          type="button"
+          disabled={busy || isSelf}
+          onClick={deleteUser}
+          className="rounded-md border border-danger/40 px-2.5 py-1.5 font-display text-[11px] font-semibold uppercase tracking-wider text-danger transition-colors hover:bg-danger/10 disabled:cursor-not-allowed disabled:opacity-40"
+          title={isSelf ? "You cannot delete your own account" : "Delete user"}
+        >
+          Delete
         </button>
       </div>
 
