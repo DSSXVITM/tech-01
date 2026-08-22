@@ -2,17 +2,21 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export function LoginForm() {
   const router = useRouter();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
+  const [unverified, setUnverified] = useState(false);
+  const [resendDone, setResendDone] = useState(false);
   const [loading, setLoading] = useState(false);
 
   async function onSubmit(event: React.FormEvent) {
     event.preventDefault();
     setError(null);
+    setUnverified(false);
     setLoading(true);
     try {
       const res = await fetch("/api/auth/login", {
@@ -20,9 +24,10 @@ export function LoginForm() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password }),
       });
-      const data = (await res.json()) as { error?: string };
+      const data = (await res.json()) as { error?: string; code?: string };
       if (!res.ok) {
         setError(data.error ?? "Login failed. Please try again.");
+        if (data.code === "unverified") setUnverified(true);
         return;
       }
       const next = new URLSearchParams(window.location.search).get("next") ?? "/";
@@ -33,6 +38,20 @@ export function LoginForm() {
       setError("Network error. Please try again.");
     } finally {
       setLoading(false);
+    }
+  }
+
+  async function resendVerification() {
+    setResendDone(false);
+    try {
+      await fetch("/api/auth/resend-verification", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email }),
+      });
+      setResendDone(true);
+    } catch {
+      /* ignore */
     }
   }
 
@@ -54,9 +73,14 @@ export function LoginForm() {
         />
       </div>
       <div>
-        <label htmlFor="login-password" className="mb-1.5 block font-mono text-[11px] uppercase tracking-wider text-muted">
-          Password
-        </label>
+        <div className="mb-1.5 flex items-center justify-between">
+          <label htmlFor="login-password" className="font-mono text-[11px] uppercase tracking-wider text-muted">
+            Password
+          </label>
+          <Link href="/forgot-password" className="font-mono text-[10px] uppercase tracking-wider text-muted hover:text-signal-ink">
+            Forgot password?
+          </Link>
+        </div>
         <input
           id="login-password"
           type="password"
@@ -73,6 +97,20 @@ export function LoginForm() {
         <p className="rounded-md border border-danger/40 bg-danger/10 px-3 py-2 font-mono text-[12px] text-danger">
           {error}
         </p>
+      )}
+
+      {unverified && (
+        <div className="rounded-md border border-signal/30 bg-signal/10 px-3 py-2 font-mono text-[12px] text-signal-ink">
+          <p>We sent a confirmation link to your inbox. Didn&apos;t get it?</p>
+          <button
+            type="button"
+            onClick={resendVerification}
+            className="mt-1 font-semibold underline"
+          >
+            Resend verification email
+          </button>
+          {resendDone && <p className="mt-1">Sent — check your email.</p>}
+        </div>
       )}
 
       <button

@@ -41,14 +41,14 @@ for (const file of readdirSync(migrationsDir).filter((f) => f.endsWith(".sql")).
   db.prepare("INSERT INTO _migrations (name) VALUES (?)").run(file);
 }
 db.prepare(
-  "INSERT INTO users (id, email, name, password_hash, role) VALUES (?, ?, ?, ?, 'admin') " +
-    "ON CONFLICT(email) DO UPDATE SET name = excluded.name, password_hash = excluded.password_hash, role = 'admin', banned_at = NULL",
-).run(id, email, "DSSXV ITM7", hash);
+  "INSERT INTO users (id, email, name, password_hash, role, email_verified, verified_at) VALUES (?, ?, ?, ?, 'admin', 1, ?) " +
+    "ON CONFLICT(email) DO UPDATE SET name = excluded.name, password_hash = excluded.password_hash, role = 'admin', banned_at = NULL, email_verified = 1, verified_at = excluded.verified_at",
+).run(id, email, "DSSXV ITM7", hash, new Date().toISOString());
 
 // --- SQL for Cloudflare D1 (local + remote) ---
 const sql =
-  `INSERT INTO users (id, email, name, password_hash, role) VALUES ('${id}', '${email}', 'DSSXV ITM7', '${hash}', 'admin') ` +
-  `ON CONFLICT(email) DO UPDATE SET name = excluded.name, password_hash = excluded.password_hash, role = 'admin', banned_at = NULL;\n`;
+  `INSERT INTO users (id, email, name, password_hash, role, email_verified, verified_at) VALUES ('${id}', '${email}', 'DSSXV ITM7', '${hash}', 'admin', 1, '${new Date().toISOString()}') ` +
+  `ON CONFLICT(email) DO UPDATE SET name = excluded.name, password_hash = excluded.password_hash, role = 'admin', banned_at = NULL, email_verified = 1, verified_at = excluded.verified_at;\n`;
 const seedsDir = path.join(root, "db", "seeds");
 mkdirSync(seedsDir, { recursive: true });
 const sqlFile = path.join(seedsDir, "admin.sql");

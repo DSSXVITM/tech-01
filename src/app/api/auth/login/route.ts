@@ -32,7 +32,7 @@ export async function POST(request: Request) {
   const db = await getDB();
   const user = await db
     .prepare(
-      "SELECT id, name, email, password_hash, role, banned_at, avatar_data FROM users WHERE email = ?",
+      "SELECT id, name, email, password_hash, role, banned_at, avatar_data, email_verified FROM users WHERE email = ?",
     )
     .bind(email)
     .first<{
@@ -43,6 +43,7 @@ export async function POST(request: Request) {
       role: UserRole;
       banned_at: string | null;
       avatar_data: string | null;
+      email_verified: number;
     }>();
 
   if (!user || !user.password_hash) {
@@ -50,6 +51,12 @@ export async function POST(request: Request) {
   }
   if (user.banned_at) {
     return json({ error: "This account has been suspended." }, 403);
+  }
+  if (!user.email_verified) {
+    return json(
+      { error: "Please verify your email address before signing in.", code: "unverified", email },
+      403,
+    );
   }
 
   const valid = await verifyPassword(password, user.password_hash);
