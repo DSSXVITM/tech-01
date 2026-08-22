@@ -6,7 +6,7 @@ const REPO = "DSSXVITM/tech-01";
 const BRANCH = "main";
 
 function sourcesFor(slug: string): string[] {
-  const path = `/images/articles/${slug}.svg`;
+  const path = `/images/articles/${slug}.jpg`;
   return [
     // 1) Same-origin: works if the deployed Worker serves the bundled JPGs.
     path,

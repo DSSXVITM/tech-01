@@ -2,13 +2,6 @@
 // Set of article slugs that have a bundled cover JPG. Used by coverSrc so
 // cover detection works at request time (Cloudflare Workers have no public/ FS).
 export const COVER_SLUGS = new Set<string>([
-  "best-ai-productivity-apps-2026",
-  "best-ai-video-generators-2026",
-  "best-seo-tools-2026",
-  "build-an-ai-agent-no-code",
-  "cursor-vs-copilot-vs-claude-code",
-  "flux-24-vs-midjourney-vs-dalle",
-  "gemini-30-vs-claude-45",
   "how-to-add-a-widget-to-the-mac-desktop",
   "how-to-add-and-set-up-a-printer-in-windows",
   "how-to-add-images-and-links-to-a-web-page",
@@ -1175,7 +1168,5 @@ export const COVER_SLUGS = new Set<string>([
   "how-to-write-data-to-a-file-in-python",
   "how-to-write-your-first-function-in-python",
   "how-to-write-your-first-html-page",
-  "how-to-zip-and-unzip-files-on-a-mac",
-  "openai-ships-o4-agentic-runtime",
-  "ssr-ssg-or-static-2026"
+  "how-to-zip-and-unzip-files-on-a-mac"
 ]);
