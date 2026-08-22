@@ -138,6 +138,11 @@ export function CoverArt({
   }
 
   const tone = TONES[image.cover] ?? TONES.generic;
+  // Derive a unique accent per article from the slug so every fallback cover
+  // looks different — otherwise articles without an uploaded image would all
+  // share the same template and appear to "repeat".
+  const hue = hashString(seed) % 360;
+  const accent = `hsl(${hue}, 78%, 54%)`;
   return (
     <svg
       viewBox="0 0 1200 630"
@@ -153,8 +158,8 @@ export function CoverArt({
           <stop offset="100%" stopColor="#f1f2f7" />
         </linearGradient>
         <radialGradient id={`glow-${seed}`} cx="74%" cy="20%" r="85%">
-          <stop offset="0%" stopColor={tone.accent} stopOpacity="0.2" />
-          <stop offset="100%" stopColor={tone.accent} stopOpacity="0" />
+          <stop offset="0%" stopColor={accent} stopOpacity="0.22" />
+          <stop offset="100%" stopColor={accent} stopOpacity="0" />
         </radialGradient>
         <pattern id={`grid-${seed}`} width="44" height="44" patternUnits="userSpaceOnUse">
           <path d="M44 0H0V44" fill="none" stroke="#1b2133" strokeOpacity="0.05" strokeWidth="1" />
@@ -164,10 +169,10 @@ export function CoverArt({
       <rect width="1200" height="630" fill={`url(#bg-${seed})`} />
       <rect width="1200" height="630" fill={`url(#glow-${seed})`} />
       <rect width="1200" height="630" fill={`url(#grid-${seed})`} />
-      <Accents seed={seed} accent={tone.accent} />
+      <Accents seed={seed} accent={accent} />
 
       {/* accent corner block */}
-      <rect x="0" y="0" width="6" height="630" fill={tone.accent} opacity="0.9" />
+      <rect x="0" y="0" width="6" height="630" fill={accent} opacity="0.9" />
 
       {/* category label */}
       <text
