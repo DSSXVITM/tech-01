@@ -43,11 +43,11 @@ for (const file of readdirSync(migrationsDir).filter((f) => f.endsWith(".sql")).
 db.prepare(
   "INSERT INTO users (id, email, name, password_hash, role) VALUES (?, ?, ?, ?, 'admin') " +
     "ON CONFLICT(email) DO UPDATE SET name = excluded.name, password_hash = excluded.password_hash, role = 'admin', banned_at = NULL",
-).run(id, email, "DSSSX", hash);
+).run(id, email, "DSSXV ITM7", hash);
 
 // --- SQL for Cloudflare D1 (local + remote) ---
 const sql =
-  `INSERT INTO users (id, email, name, password_hash, role) VALUES ('${id}', '${email}', 'DSSSX', '${hash}', 'admin') ` +
+  `INSERT INTO users (id, email, name, password_hash, role) VALUES ('${id}', '${email}', 'DSSXV ITM7', '${hash}', 'admin') ` +
   `ON CONFLICT(email) DO UPDATE SET name = excluded.name, password_hash = excluded.password_hash, role = 'admin', banned_at = NULL;\n`;
 const seedsDir = path.join(root, "db", "seeds");
 mkdirSync(seedsDir, { recursive: true });
