@@ -8,6 +8,9 @@ const BRANCH = "main";
 function sourcesFor(slug: string): string[] {
   const path = `/images/articles/${slug}.jpg`;
   return [
+    // 1) Same-origin: works if the deployed Worker serves the bundled JPGs.
+    path,
+    // 2) External CDN fallbacks served from the public GitHub repo.
     `https://raw.githubusercontent.com/${REPO}/${BRANCH}/public${path}`,
     `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}${path}`,
   ];
