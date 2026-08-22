@@ -28,7 +28,7 @@ export default function AffiliateDisclosurePage() {
       </p>
       <h2>Questions</h2>
       <p>
-        If a link's origin isn't clear, email <a href="mailto:partners@aitech.example">partners@aitech.example</a>{" "}
+        If a link's origin isn't clear, email <a href="mailto:support@ai-tech.fit">support@ai-tech.fit</a>{" "}
         and we'll clarify.
       </p>
     </StaticPage>

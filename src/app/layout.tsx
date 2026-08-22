@@ -80,15 +80,20 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <head>
         <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-WXVKGBP4MD"
+          src="https://www.googletagmanager.com/gtag/js?id=G-40JHFKP2BD"
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
           {`window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-WXVKGBP4MD');`}
+  gtag('config', 'G-40JHFKP2BD');`}
         </Script>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3684897541406213"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className="flex min-h-full flex-col bg-bg font-sans text-fg">
         <Header />

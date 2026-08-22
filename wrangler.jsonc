@@ -7,8 +7,9 @@
 	//   npx wrangler d1 migrations apply aitech-db --remote
 	// then paste the returned database_id. See docs/phase-2.md.
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "aitech",
-	"main": ".open-next/worker.js",
+  "name": "aitech",
+  "workers_dev": false,
+  "main": ".open-next/worker.js",
 	"compatibility_date": "2026-08-08",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
@@ -20,7 +21,7 @@
 	},
 	"vars": {
 		"APP_URL": "https://ai-tech.fit",
-		"EMAIL_FROM": "AI Tech <no-reply@ai-tech.fit>"
+		"EMAIL_FROM": "AI Tech <support@ai-tech.fit>"
 	},
 	// D1 database (Phase 2). Works locally out of the box with the
 	// placeholder id. Before REMOTE deploy, replace it with the real id:
@@ -32,11 +33,5 @@
  			"database_id": "7095fb2e-cb5f-48c7-99f8-73c2730e2167",
  			"migrations_dir": "db/migrations"
  		}
- 	],
- 	"routes": [
- 		{
- 			"pattern": "ai-tech.fit/*",
- 			"zone_name": "ai-tech.fit"
- 		}
- 	]
- }
+  ]
+}

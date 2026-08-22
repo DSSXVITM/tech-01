@@ -51,7 +51,7 @@ export async function sendVerificationEmail(opts: {
 }): Promise<EmailResult> {
   const verifyUrl = buildVerifyUrl(opts.token);
   const apiKey = envVar("RESEND_API_KEY");
-  const from = envVar("EMAIL_FROM") || "AI Tech <no-reply@ai-tech.fit>";
+  const from = envVar("EMAIL_FROM") || "AI Tech <support@ai-tech.fit>";
 
   if (!apiKey) {
     console.warn(`[email] RESEND_API_KEY not set — verification link for ${opts.to}:\n${verifyUrl}`);
@@ -94,7 +94,7 @@ export async function sendPasswordResetEmail(opts: {
 }): Promise<EmailResult> {
   const resetUrl = buildResetUrl(opts.token);
   const apiKey = envVar("RESEND_API_KEY");
-  const from = envVar("EMAIL_FROM") || "AI Tech <no-reply@ai-tech.fit>";
+  const from = envVar("EMAIL_FROM") || "AI Tech <support@ai-tech.fit>";
 
   if (!apiKey) {
     console.warn(`[email] RESEND_API_KEY not set — password reset link for ${opts.to}:\n${resetUrl}`);

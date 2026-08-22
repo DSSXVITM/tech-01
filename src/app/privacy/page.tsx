@@ -30,7 +30,7 @@ export default function PrivacyPage() {
       </p>
       <h2>Contact</h2>
       <p>
-        Privacy questions: <a href="mailto:privacy@aitech.example">privacy@aitech.example</a>.
+        Privacy questions: <a href="mailto:support@ai-tech.fit">support@ai-tech.fit</a>.
       </p>
     </StaticPage>
   );

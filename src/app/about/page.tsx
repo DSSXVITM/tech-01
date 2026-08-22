@@ -35,7 +35,7 @@ export default function AboutPage() {
       <p>
         Guides age — operating systems change. When a reader spots a step that no longer works,
         we test it and update the guide, marking the change. Corrections are welcome:{" "}
-        <a href="mailto:hello@aitech.example">hello@aitech.example</a>.
+        <a href="mailto:support@ai-tech.fit">support@ai-tech.fit</a>.
       </p>
     </StaticPage>
   );
