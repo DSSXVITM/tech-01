@@ -5,6 +5,8 @@ import "./globals.css";
 import { siteConfig } from "@/lib/site";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
+import { AdsenseScript } from "@/components/adsense";
+import { ConsentBanner } from "@/components/consent-banner";
 
 const display = Sora({
   variable: "--display",
@@ -78,27 +80,27 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       suppressHydrationWarning
     >
       <head>
+        <meta name="google-site-verification" content="aMM3q_k0b7e0765bzFqdtQLjtyv_PT6vK1liC5twDF4" />
         <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-40JHFKP2BD"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`window.dataLayer = window.dataLayer || [];
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WXVKGBP4MD"></script>
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied',
+    wait_for_update: 500
+  });
   gtag('js', new Date());
-  gtag('config', 'G-40JHFKP2BD');`}
-        </Script>
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3684897541406213"
-          crossOrigin="anonymous"
-        />
+  gtag('config', 'G-WXVKGBP4MD');` }} />
+        <AdsenseScript />
       </head>
       <body className="flex min-h-full flex-col bg-bg font-sans text-fg">
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <ConsentBanner />
       </body>
     </html>
   );

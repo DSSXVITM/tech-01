@@ -16,8 +16,20 @@
 		"directory": ".open-next/assets",
 		"binding": "ASSETS"
 	},
-	"observability": {
-		"enabled": true
+  "kv_namespaces": [
+    {
+      "binding": "NEXT_INC_CACHE_KV",
+      "id": "c33b38eafdd3444c819bd9a4149c325f"
+    }
+  ],
+  "observability": {
+		"logs": {
+			"enabled": true,
+			"invocation_logs": true
+		},
+		"traces": {
+			"enabled": false
+		}
 	},
 	"vars": {
 		"APP_URL": "https://ai-tech.fit",

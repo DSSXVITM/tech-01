@@ -3,12 +3,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
   getArticle,
+  getAllArticles,
   getAuthorBySlug,
   getCategoryBySlugSafe,
   getRelatedArticles,
   getAffiliateCatalog,
 } from "@/content";
-import { getDbArticle } from "@/lib/db/content";
 import { siteConfig } from "@/lib/site";
 import { formatDate, formatDateTime, readingMinutes } from "@/lib/format";
 import { CoverArt } from "@/components/cover-art";
@@ -26,9 +26,14 @@ import { CircuitDivider } from "@/components/circuit-divider";
 import { CommentsSection } from "@/components/comments-section";
 import { SaveButton } from "@/components/save-button";
 
-// Render on demand (no SSG prerender of the full library). This keeps the
-// build fast; covers still work via the bundled COVER_SLUGS manifest.
-export const dynamic = "force-dynamic";
+// Prerender articles at build time so they are served as static assets.
+// Rendering on-demand exceeded the Cloudflare Worker CPU/memory limit
+// (error 1102 -> 503) for article pages.
+export function generateStaticParams() {
+  return getAllArticles().map((a) => ({ category: a.category, slug: a.slug }));
+}
+
+export const dynamicParams = false;
 
 interface Props {
   params: Promise<{ category: string; slug: string }>;
@@ -36,7 +41,7 @@ interface Props {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const article = getArticle(slug) ?? (await getDbArticle(slug));
+  const article = getArticle(slug);
   if (!article) return {};
   const category = getCategoryBySlugSafe(article.category);
   const canonical = `${siteConfig.url}/${article.category}/${article.slug}`;
@@ -65,7 +70,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ArticlePage({ params }: Props) {
   const { category: categorySlug, slug } = await params;
-  const article = getArticle(slug) ?? (await getDbArticle(slug));
+  const article = getArticle(slug);
   if (!article || article.category !== categorySlug) notFound();
 
   const author = getAuthorBySlug(article.author);
