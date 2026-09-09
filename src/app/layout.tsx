@@ -80,14 +80,14 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       suppressHydrationWarning
     >
       <head>
-        <meta name="google-site-verification" content="aMM3q_k0b7e0765bzFqdtQLjtyv_PT6vK1liC5twDF4" />
-        <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-WXVKGBP4MD"></script>
         <script dangerouslySetInnerHTML={{ __html: `window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-WXVKGBP4MD');` }} />
+        <meta name="google-site-verification" content="aMM3q_k0b7e0765bzFqdtQLjtyv_PT6vK1liC5twDF4" />
+        <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
         <AdsenseScript />
       </head>
       <body className="flex min-h-full flex-col bg-bg font-sans text-fg">
