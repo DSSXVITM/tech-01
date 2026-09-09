@@ -85,14 +85,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-WXVKGBP4MD"></script>
         <script dangerouslySetInnerHTML={{ __html: `window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('consent', 'default', {
-    ad_storage: 'granted',
-    ad_user_data: 'granted',
-    ad_personalization: 'granted',
-    analytics_storage: 'granted',
-    wait_for_update: 500
-  });
   gtag('js', new Date());
+
   gtag('config', 'G-WXVKGBP4MD');` }} />
         <AdsenseScript />
       </head>
